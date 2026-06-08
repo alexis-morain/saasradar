@@ -36,8 +36,8 @@ jobs:
             exit 0
           fi
           # Read fresh stats from the new README
-          tools=$(grep -E '^\- \*\*Total tools:\*\* ' README.md | sed 's/.*\*\* //')
-          cats=$(grep -E '^\- \*\*Categories:\*\* ' README.md | sed 's/.*\*\* //')
+          tools=$(grep -oE 'Total tools: \*\*[0-9]+\*\*' README.md | grep -oE '[0-9]+')
+          cats=$(grep -oE 'Categories: \*\*[0-9]+\*\*' README.md | grep -oE '[0-9]+')
           git add README.md
           git commit -m "chore: sync README (${tools} tools, ${cats} categories)"
           git push

@@ -1,0 +1,43 @@
+name: Sync README from SaaS Radar
+
+on:
+  schedule:
+    # Daily at 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch README from saasradar.fr
+        run: |
+          curl -sSf --retry 3 --retry-delay 5 --max-time 60 \
+            -H "Accept: text/markdown" \
+            https://saasradar.fr/api/public/readme \
+            -o README.new.md
+          # Sanity check: must be non-empty and contain the expected header
+          test -s README.new.md
+          grep -q "^# Awesome SaaS Tools" README.new.md
+          mv README.new.md README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name "saasradar-bot"
+          git config user.email "bot@saasradar.fr"
+          if git diff --quiet README.md; then
+            echo "No changes to README.md"
+            exit 0
+          fi
+          # Read fresh stats from the new README
+          tools=$(grep -E '^\- \*\*Total tools:\*\* ' README.md | sed 's/.*\*\* //')
+          cats=$(grep -E '^\- \*\*Categories:\*\* ' README.md | sed 's/.*\*\* //')
+          git add README.md
+          git commit -m "chore: sync README (${tools} tools, ${cats} categories)"
+          git push

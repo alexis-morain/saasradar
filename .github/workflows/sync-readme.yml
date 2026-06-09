@@ -35,9 +35,11 @@ jobs:
             echo "No changes to README.md"
             exit 0
           fi
-          # Read fresh stats from the new README
-          tools=$(grep -oE 'Total tools: \*\*[0-9]+\*\*' README.md | grep -oE '[0-9]+')
-          cats=$(grep -oE 'Categories: \*\*[0-9]+\*\*' README.md | grep -oE '[0-9]+')
+          # Read fresh stats from the new README (tolerant: never abort the sync)
+          tools=$(grep -oE '^- \*\*Total tools:\*\* [0-9]+' README.md | grep -oE '[0-9]+' | head -1 || true)
+          cats=$(grep -oE '^- \*\*Categories:\*\* [0-9]+' README.md | grep -oE '[0-9]+' | head -1 || true)
+          tools=${tools:-?}
+          cats=${cats:-?}
           git add README.md
           git commit -m "chore: sync README (${tools} tools, ${cats} categories)"
           git push

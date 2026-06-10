@@ -25,6 +25,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Anara](https://saasradar.fr/tools/anara) - AI for Your Academic Research `Freemium` `⭐ 8/10` `🆓 Trial`
 - [Apollo.io](https://saasradar.fr/tools/apollo-io) - Accelerate your B2B sales with AI `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`
 - [Bold Desk](https://saasradar.fr/tools/bold-desk) - Intelligent and Fast Customer Service `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`
+- [Chatbase](https://saasradar.fr/tools/chatbase) - Automate your customer support with AI `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`
 - [Claude](https://saasradar.fr/tools/claude) - AI for Curious Minds `Custom pricing` `⭐ 8/10`
 - [Frase](https://saasradar.fr/tools/frase) - Optimize your content, be cited by AI `Freemium` `⭐ 8/10` `🆓 Trial`
 - [Freshsales](https://saasradar.fr/tools/freshsales) - Intelligent CRM for Accelerated Sales `Freemium` `⭐ 8/10` `🆓 Trial`
@@ -94,6 +95,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Mangools](https://saasradar.fr/tools/mangools) - SEO simplified for everyone `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`
 - [Manychat](https://saasradar.fr/tools/manychat) - Automate your marketing conversations `Freemium` `⭐ 8/10` `🆓 Trial`
 - [Pharow](https://saasradar.fr/tools/pharow) - Easily generate B2B leads `Freemium` `⭐ 8/10` `🆓 Trial`
+- [Postmark](https://saasradar.fr/tools/postmark) - Ultra-fast and reliable email delivery `Paid` `⭐ 8/10`
 - [SE Ranking](https://saasradar.fr/tools/se-ranking) - Master your SEO with precision `Freemium` `⭐ 8/10` `🆓 Trial`
 - [SendGrid](https://saasradar.fr/tools/sendgrid) - Send emails at scale `Custom pricing` `⭐ 8/10`
 - [SERPChecker](https://saasradar.fr/tools/serpchecker) - Analyze your competitors effectively `Freemium` `⭐ 8/10` `🆓 Trial`
@@ -128,6 +130,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Make](https://saasradar.fr/tools/make) - Automate your workflows visually `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`
 - [n8n](https://saasradar.fr/tools/n8n) - Automate your workflows with AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`
 - [Pennylane](https://saasradar.fr/tools/pennylane) - Simplify Your Financial Management `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`
+- [Pipedream](https://saasradar.fr/tools/pipedream) - Automate your processes in a flash `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`
 - [Qonto](https://saasradar.fr/tools/qonto) - Your all-in-one business account `Paid` `⭐ 8/10` `🇪🇺 GDPR`
 - [Softr](https://saasradar.fr/tools/softr) - Create professional apps without coding `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`
 - [Tana](https://saasradar.fr/tools/tana) - Productive meetings, work accomplished `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`
@@ -171,6 +174,6 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Footnotes
 
-- **Total tools:** 121
+- **Total tools:** 124
 - **Categories:** 9
-- **Last updated:** June 9, 2026
+- **Last updated:** June 10, 2026

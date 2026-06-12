@@ -113,6 +113,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Survicate](https://saasradar.fr/tools/survicate) - Turn customer feedback into actionable insights. `Paid` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Flippa](https://saasradar.fr/tools/flippa) - Buy and sell digital assets easily. `Custom pricing` `⭐ 7/10`.
 - [noCRM.io](https://saasradar.fr/tools/nocrm) - Quickly turn prospects into customers. `Freemium` `⭐ 7/10` `🆓 Trial`.
+- [Resend](https://saasradar.fr/tools/resend) - Send emails, not spam. `Custom pricing` `⭐ 7/10`.
 - [Kit](https://saasradar.fr/tools/kit) - The marketing platform for creators. `Freemium` `⭐ 6/10` `🆓 Trial`.
 
 ## Productivity & Organization
@@ -127,8 +128,10 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Cal.com](https://saasradar.fr/tools/cal-com) - Schedule your appointments with ease. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Capacities](https://saasradar.fr/tools/capacities) - Organize your ideas into connected objects. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Coda](https://saasradar.fr/tools/coda) - Centralize your collaborative workflows. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Comp AI](https://saasradar.fr/tools/comp-ai) - Automate your compliance with AI. `Custom pricing` `⭐ 8/10` `🆓 Trial`.
 - [Glide](https://saasradar.fr/tools/glide) - Create powerful apps without coding. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Indy](https://saasradar.fr/tools/indy) - Simplified accounting for freelancers. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Lindy](https://saasradar.fr/tools/lindy) - Your AI assistant to save time. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Make](https://saasradar.fr/tools/make) - Automate your workflows visually. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [n8n](https://saasradar.fr/tools/n8n) - Automate your workflows with AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pennylane](https://saasradar.fr/tools/pennylane) - Simplify Your Financial Management. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -176,4 +179,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **125** · Categories: **9** · Last updated: **June 11, 2026**
+Total tools: **128** · Categories: **9** · Last updated: **June 12, 2026**

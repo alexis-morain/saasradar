@@ -87,6 +87,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Hector](https://saasradar.fr/tools/hector) - Optimize your Amazon campaigns with precision. `Custom pricing` `⭐ 8/10`.
 - [HubSpot](https://saasradar.fr/tools/hubspot) - Unify Your Business Growth. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Instantly](https://saasradar.fr/tools/instantly) - Transform your leads into loyal customers. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Interact](https://saasradar.fr/tools/interact) - Create engaging and converting quizzes. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Kartra](https://saasradar.fr/tools/kartra) - Your expertise, our platform. `Paid from 99$/mois` `⭐ 8/10` `🆓 Trial`.
 - [Klaviyo](https://saasradar.fr/tools/klaviyo) - Personalized and Automated Omnichannel Marketing. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [KW Finder](https://saasradar.fr/tools/kw-finder) - Easily find winning keywords. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -179,4 +180,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **128** · Categories: **9** · Last updated: **June 12, 2026**
+Total tools: **129** · Categories: **9** · Last updated: **June 13, 2026**

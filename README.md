@@ -33,6 +33,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Gemini](https://saasradar.fr/tools/gemini) - Your personal AI assistant. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Dynamics 365 Sales](https://saasradar.fr/tools/microsoft-dynamics) - Accelerate Sales with Smart AI. `Paid from 56,30€/mois` `⭐ 8/10`.
 - [Monday CRM](https://saasradar.fr/tools/monday-crm) - AI CRM to Accelerate Your Sales. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Relevance AI](https://saasradar.fr/tools/relevance-ai) - Autonomous agents for real business impact. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Salesforce](https://saasradar.fr/tools/salesforce) - The AI CRM for accelerated growth. `Paid from 25$/utilisateur/mois` `⭐ 8/10` `🆓 Trial`.
 - [Slite](https://saasradar.fr/tools/slite) - The AI Knowledge Base for Everyone. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Zapier](https://saasradar.fr/tools/zapier) - Automate your AI workflows without code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -112,7 +113,9 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [WP Rocket](https://saasradar.fr/tools/wp-rocket) - Accelerate your WordPress site. `Paid from 49$/an` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Zoho CRM](https://saasradar.fr/tools/zoho-crm) - Boost your sales with contextual AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Survicate](https://saasradar.fr/tools/survicate) - Turn customer feedback into actionable insights. `Paid` `⭐ 7/10` `🇪🇺 GDPR`.
+- [BetterPic](https://saasradar.fr/tools/betterpic) - Transform your selfies into 4K pro portraits. `Paid from 35$` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Flippa](https://saasradar.fr/tools/flippa) - Buy and sell digital assets easily. `Custom pricing` `⭐ 7/10`.
+- [Loops](https://saasradar.fr/tools/loops) - Simplified emails for tech businesses. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [noCRM.io](https://saasradar.fr/tools/nocrm) - Quickly turn prospects into customers. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Resend](https://saasradar.fr/tools/resend) - Send emails, not spam. `Custom pricing` `⭐ 7/10`.
 - [Kit](https://saasradar.fr/tools/kit) - The marketing platform for creators. `Freemium` `⭐ 6/10` `🆓 Trial`.
@@ -180,4 +183,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **129** · Categories: **9** · Last updated: **June 13, 2026**
+Total tools: **132** · Categories: **9** · Last updated: **June 14, 2026**

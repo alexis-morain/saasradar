@@ -31,6 +31,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Frase](https://saasradar.fr/tools/frase) - Optimize your content, be cited by AI. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Freshsales](https://saasradar.fr/tools/freshsales) - Intelligent CRM for Accelerated Sales. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Gemini](https://saasradar.fr/tools/gemini) - Your personal AI assistant. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Littlebird](https://saasradar.fr/tools/littlebird) - The AI assistant that understands you. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Dynamics 365 Sales](https://saasradar.fr/tools/microsoft-dynamics) - Accelerate Sales with Smart AI. `Paid from 56,30€/mois` `⭐ 8/10`.
 - [Monday CRM](https://saasradar.fr/tools/monday-crm) - AI CRM to Accelerate Your Sales. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Relevance AI](https://saasradar.fr/tools/relevance-ai) - Autonomous agents for real business impact. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -183,4 +184,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **132** · Categories: **9** · Last updated: **June 14, 2026**
+Total tools: **133** · Categories: **9** · Last updated: **June 15, 2026**

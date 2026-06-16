@@ -42,6 +42,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [AppFlowy](https://saasradar.fr/tools/appflowy) - Collaborate with AI while staying in control. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Granola](https://saasradar.fr/tools/granola) - AI-powered meeting notes. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Predimail](https://saasradar.fr/tools/predimail) - Manage your emails with AI, simply. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Stack AI](https://saasradar.fr/tools/stack-ai) - Deploy AI agents securely. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Wondershare](https://saasradar.fr/tools/wondershare) - Create without limits with AI. `Paid` `⭐ 7/10`.
 
 ## Design & Creativity
@@ -75,7 +76,6 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 ## Marketing & Growth
 
-- [SEM Rush](https://saasradar.fr/tools/sem-rush) - Master Your Digital Visibility. `Freemium` `⭐ 9/10` `🆓 Trial`.
 - [Semrush](https://saasradar.fr/tools/semrush) - Boost your digital visibility. `Freemium` `⭐ 9/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Shopify](https://saasradar.fr/tools/shopify) - Your online store in one click. `Freemium` `⭐ 9/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [ActiveCampaign](https://saasradar.fr/tools/activecampaign) - Automate your marketing with AI. `Custom pricing` `⭐ 8/10` `🆓 Trial`.
@@ -115,6 +115,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Zoho CRM](https://saasradar.fr/tools/zoho-crm) - Boost your sales with contextual AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Survicate](https://saasradar.fr/tools/survicate) - Turn customer feedback into actionable insights. `Paid` `⭐ 7/10` `🇪🇺 GDPR`.
 - [BetterPic](https://saasradar.fr/tools/betterpic) - Transform your selfies into 4K pro portraits. `Paid from 35$` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Dub](https://saasradar.fr/tools/dub) - Turn clicks into revenue. `Paid` `⭐ 7/10`.
 - [Flippa](https://saasradar.fr/tools/flippa) - Buy and sell digital assets easily. `Custom pricing` `⭐ 7/10`.
 - [Loops](https://saasradar.fr/tools/loops) - Simplified emails for tech businesses. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [noCRM.io](https://saasradar.fr/tools/nocrm) - Quickly turn prospects into customers. `Freemium` `⭐ 7/10` `🆓 Trial`.
@@ -184,4 +185,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **133** · Categories: **9** · Last updated: **June 15, 2026**
+Total tools: **134** · Categories: **9** · Last updated: **June 16, 2026**

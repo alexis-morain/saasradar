@@ -22,12 +22,12 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [ChatGPT](https://saasradar.fr/tools/chatgpt) - Your daily AI assistant. `Freemium` `⭐ 9/10` `🆓 Trial`.
 - [VS Code](https://saasradar.fr/tools/vscode) - Smart and Collaborative Coding. `Free` `⭐ 9/10` `🆓 Trial`.
 - [Aircall](https://saasradar.fr/tools/aircall) - Unified and Intelligent Client Communications. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
-- [Tidio](https://saasradar.fr/tools/tidio) - Automated customer service, human touch preserved. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Anara](https://saasradar.fr/tools/anara) - AI for Your Academic Research. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Apollo.io](https://saasradar.fr/tools/apollo-io) - Accelerate your B2B sales with AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Bold Desk](https://saasradar.fr/tools/bold-desk) - Intelligent and Fast Customer Service. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Chatbase](https://saasradar.fr/tools/chatbase) - Automate your customer support with AI. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Claude](https://saasradar.fr/tools/claude) - AI for Curious Minds. `Custom pricing` `⭐ 8/10`.
+- [CodeRabbit](https://saasradar.fr/tools/coderabbit) - Review your code with AI. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Frase](https://saasradar.fr/tools/frase) - Optimize your content, be cited by AI. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Freshsales](https://saasradar.fr/tools/freshsales) - Intelligent CRM for Accelerated Sales. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Gemini](https://saasradar.fr/tools/gemini) - Your personal AI assistant. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -37,10 +37,11 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Relevance AI](https://saasradar.fr/tools/relevance-ai) - Autonomous agents for real business impact. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Salesforce](https://saasradar.fr/tools/salesforce) - The AI CRM for accelerated growth. `Paid from 25$/utilisateur/mois` `⭐ 8/10` `🆓 Trial`.
 - [Slite](https://saasradar.fr/tools/slite) - The AI Knowledge Base for Everyone. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Tidio](https://saasradar.fr/tools/tidio) - Automated customer service, human touch preserved. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Zapier](https://saasradar.fr/tools/zapier) - Automate your AI workflows without code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
-- [KrispCall](https://saasradar.fr/tools/krispcall) - Smart and Integrated Cloud Telephony. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [AppFlowy](https://saasradar.fr/tools/appflowy) - Collaborate with AI while staying in control. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Granola](https://saasradar.fr/tools/granola) - AI-powered meeting notes. `Freemium` `⭐ 7/10` `🆓 Trial`.
+- [KrispCall](https://saasradar.fr/tools/krispcall) - Smart and Integrated Cloud Telephony. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Predimail](https://saasradar.fr/tools/predimail) - Manage your emails with AI, simply. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Stack AI](https://saasradar.fr/tools/stack-ai) - Deploy AI agents securely. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Wondershare](https://saasradar.fr/tools/wondershare) - Create without limits with AI. `Paid` `⭐ 7/10`.
@@ -113,13 +114,13 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [WebinarJam](https://saasradar.fr/tools/webinarjam) - Transform your presentations into revenue. `Paid from 39$/mois` `⭐ 8/10` `🆓 Trial`.
 - [WP Rocket](https://saasradar.fr/tools/wp-rocket) - Accelerate your WordPress site. `Paid from 49$/an` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Zoho CRM](https://saasradar.fr/tools/zoho-crm) - Boost your sales with contextual AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
-- [Survicate](https://saasradar.fr/tools/survicate) - Turn customer feedback into actionable insights. `Paid` `⭐ 7/10` `🇪🇺 GDPR`.
 - [BetterPic](https://saasradar.fr/tools/betterpic) - Transform your selfies into 4K pro portraits. `Paid from 35$` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Dub](https://saasradar.fr/tools/dub) - Turn clicks into revenue. `Paid` `⭐ 7/10`.
 - [Flippa](https://saasradar.fr/tools/flippa) - Buy and sell digital assets easily. `Custom pricing` `⭐ 7/10`.
 - [Loops](https://saasradar.fr/tools/loops) - Simplified emails for tech businesses. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [noCRM.io](https://saasradar.fr/tools/nocrm) - Quickly turn prospects into customers. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Resend](https://saasradar.fr/tools/resend) - Send emails, not spam. `Custom pricing` `⭐ 7/10`.
+- [Survicate](https://saasradar.fr/tools/survicate) - Turn customer feedback into actionable insights. `Paid` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Kit](https://saasradar.fr/tools/kit) - The marketing platform for creators. `Freemium` `⭐ 6/10` `🆓 Trial`.
 
 ## Productivity & Organization
@@ -148,12 +149,12 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Tiime](https://saasradar.fr/tools/tiime) - Simplified accounting for entrepreneurs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Travel Code](https://saasradar.fr/tools/travel-code) - Simplified business travel, guaranteed savings. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Wispr Flow](https://saasradar.fr/tools/wispr-flow) - Dictate, don't type! `Freemium` `⭐ 8/10` `🆓 Trial`.
-- [MRPeasy](https://saasradar.fr/tools/mrpeasy) - Optimize your production with precision. `Paid` `⭐ 7/10` `🆓 Trial`.
-- [PDWare](https://saasradar.fr/tools/pdware) - Optimize your resources, achieve your projects. `Custom pricing` `⭐ 7/10`.
 - [Anytype](https://saasradar.fr/tools/anytype) - Collaborate securely, anywhere. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Buddy Punch](https://saasradar.fr/tools/buddy-punch) - Simplified and Affordable Time Tracking. `Paid` `⭐ 7/10`.
+- [MRPeasy](https://saasradar.fr/tools/mrpeasy) - Optimize your production with precision. `Paid` `⭐ 7/10` `🆓 Trial`.
 - [NocoDB](https://saasradar.fr/tools/nocodb) - Transform your databases into spreadsheets. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Outline](https://saasradar.fr/tools/outline) - Organize your team's knowledge efficiently. `Freemium` `⭐ 7/10` `🆓 Trial`.
+- [PDWare](https://saasradar.fr/tools/pdware) - Optimize your resources, achieve your projects. `Custom pricing` `⭐ 7/10`.
 - [Slab](https://saasradar.fr/tools/slab) - Share knowledge, simply. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Wave](https://saasradar.fr/tools/wave) - Manage your accounting stress-free. `Freemium` `⭐ 7/10` `🆓 Trial`.
 
@@ -185,4 +186,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **134** · Categories: **9** · Last updated: **June 16, 2026**
+Total tools: **135** · Categories: **9** · Last updated: **June 17, 2026**

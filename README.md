@@ -21,6 +21,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 - [ChatGPT](https://saasradar.fr/tools/chatgpt) - Your daily AI assistant. `Freemium` `⭐ 9/10` `🆓 Trial`.
 - [VS Code](https://saasradar.fr/tools/vscode) - Smart and Collaborative Coding. `Free` `⭐ 9/10` `🆓 Trial`.
+- [Affinity](https://saasradar.fr/tools/affinity) - Creativity without limits, no cost. `Free` `⭐ 8/10` `🆓 Trial`.
 - [Aircall](https://saasradar.fr/tools/aircall) - Unified and Intelligent Client Communications. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Anara](https://saasradar.fr/tools/anara) - AI for Your Academic Research. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Apollo.io](https://saasradar.fr/tools/apollo-io) - Accelerate your B2B sales with AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -141,6 +142,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Lindy](https://saasradar.fr/tools/lindy) - Your AI assistant to save time. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Make](https://saasradar.fr/tools/make) - Automate your workflows visually. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [n8n](https://saasradar.fr/tools/n8n) - Automate your workflows with AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Notion](https://saasradar.fr/tools/notion) - Your personalized AI workspace. `Paid from 10€/utilisateur` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pennylane](https://saasradar.fr/tools/pennylane) - Simplify Your Financial Management. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Pipedream](https://saasradar.fr/tools/pipedream) - Automate your processes in a flash. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Qonto](https://saasradar.fr/tools/qonto) - Your all-in-one business account. `Paid` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -167,6 +169,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Pipedrive](https://saasradar.fr/tools/pipedrive) - Intuitive CRM to boost your sales. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sellsy](https://saasradar.fr/tools/sellsy) - Manage sales and finances on one platform. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Bitrix24](https://saasradar.fr/tools/bitrix24) - Your business, unified and simplified. `Paid from 124€/mois` `⭐ 7/10` `🆓 Trial`.
+- [Copper](https://saasradar.fr/tools/copper) - The CRM integrated with Gmail for SMBs. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Folk](https://saasradar.fr/tools/folk) - The CRM that works for you. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Security & Compliance
@@ -186,4 +189,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **135** · Categories: **9** · Last updated: **June 17, 2026**
+Total tools: **138** · Categories: **9** · Last updated: **June 18, 2026**

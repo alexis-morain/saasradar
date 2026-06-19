@@ -54,6 +54,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Wix](https://saasradar.fr/tools/wix) - Create your website with ease. `Freemium` `⭐ 9/10` `🆓 Trial`.
 - [FlutterFlow](https://saasradar.fr/tools/flutterflow) - Quickly create custom apps. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Framer](https://saasradar.fr/tools/framer) - Create professional sites without coding. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [SnapPack](https://saasradar.fr/tools/snappack) - Pro product photos without a studio. `Paid from 19€/mois` `⭐ 8/10` `🆓 Trial`.
 - [Webflow](https://saasradar.fr/tools/webflow) - Create powerful and customized websites. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Wix Studio](https://saasradar.fr/tools/wix-studio) - Create exceptional websites at scale. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Fiverr](https://saasradar.fr/tools/fiverr) - Find global talent with one click. `Paid` `⭐ 7/10`.
@@ -157,6 +158,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [NocoDB](https://saasradar.fr/tools/nocodb) - Transform your databases into spreadsheets. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Outline](https://saasradar.fr/tools/outline) - Organize your team's knowledge efficiently. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [PDWare](https://saasradar.fr/tools/pdware) - Optimize your resources, achieve your projects. `Custom pricing` `⭐ 7/10`.
+- [SeDomicilier](https://saasradar.fr/tools/sedomicilier) - Easily register your business online. `Paid from 11€/mois` `⭐ 7/10`.
 - [Slab](https://saasradar.fr/tools/slab) - Share knowledge, simply. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Wave](https://saasradar.fr/tools/wave) - Manage your accounting stress-free. `Freemium` `⭐ 7/10` `🆓 Trial`.
 
@@ -189,4 +191,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **138** · Categories: **9** · Last updated: **June 18, 2026**
+Total tools: **140** · Categories: **9** · Last updated: **June 19, 2026**

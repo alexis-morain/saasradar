@@ -32,9 +32,11 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Frase](https://saasradar.fr/tools/frase) - Optimize your content, be cited by AI. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Freshsales](https://saasradar.fr/tools/freshsales) - Intelligent CRM for Accelerated Sales. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Gemini](https://saasradar.fr/tools/gemini) - Your personal AI assistant. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Linear](https://saasradar.fr/tools/linear) - Develop with Integrated AI Agents. `Custom pricing` `⭐ 8/10`.
 - [Littlebird](https://saasradar.fr/tools/littlebird) - The AI assistant that understands you. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Dynamics 365 Sales](https://saasradar.fr/tools/microsoft-dynamics) - Accelerate Sales with Smart AI. `Paid from 56,30€/mois` `⭐ 8/10`.
 - [Monday CRM](https://saasradar.fr/tools/monday-crm) - AI CRM to Accelerate Your Sales. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Omybox](https://saasradar.fr/tools/omybox) - 24/7 AI Assistant for Your Visitors. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Relevance AI](https://saasradar.fr/tools/relevance-ai) - Autonomous agents for real business impact. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Salesforce](https://saasradar.fr/tools/salesforce) - The AI CRM for accelerated growth. `Paid from 25$/utilisateur/mois` `⭐ 8/10` `🆓 Trial`.
 - [Slite](https://saasradar.fr/tools/slite) - The AI Knowledge Base for Everyone. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -84,6 +86,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [ActiveCampaign](https://saasradar.fr/tools/activecampaign) - Automate your marketing with AI. `Custom pricing` `⭐ 8/10` `🆓 Trial`.
 - [Amplitude](https://saasradar.fr/tools/amplitude) - Analyze and optimize with precision. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Brevo](https://saasradar.fr/tools/brevo) - Engage your customers, simplify your campaigns. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Canva](https://saasradar.fr/tools/canva) - Create stunning designs effortlessly. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [DashThis](https://saasradar.fr/tools/dashthis) - Automated marketing reports in one click. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Dropcontact](https://saasradar.fr/tools/dropcontact) - Find 100% GDPR-compliant emails. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Elfsight](https://saasradar.fr/tools/elfsight) - Web widgets to boost your business. `Freemium` `⭐ 8/10` `🆓 Trial`.
@@ -191,4 +194,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **140** · Categories: **9** · Last updated: **June 19, 2026**
+Total tools: **143** · Categories: **9** · Last updated: **June 20, 2026**

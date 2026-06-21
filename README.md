@@ -43,6 +43,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Tidio](https://saasradar.fr/tools/tidio) - Automated customer service, human touch preserved. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Zapier](https://saasradar.fr/tools/zapier) - Automate your AI workflows without code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [AppFlowy](https://saasradar.fr/tools/appflowy) - Collaborate with AI while staying in control. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Emergent](https://saasradar.fr/tools/emergent) - Create apps with AI in an instant. `Custom pricing` `⭐ 7/10`.
 - [Granola](https://saasradar.fr/tools/granola) - AI-powered meeting notes. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [KrispCall](https://saasradar.fr/tools/krispcall) - Smart and Integrated Cloud Telephony. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Predimail](https://saasradar.fr/tools/predimail) - Manage your emails with AI, simply. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -60,6 +61,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Webflow](https://saasradar.fr/tools/webflow) - Create powerful and customized websites. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Wix Studio](https://saasradar.fr/tools/wix-studio) - Create exceptional websites at scale. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Fiverr](https://saasradar.fr/tools/fiverr) - Find global talent with one click. `Paid` `⭐ 7/10`.
+- [GeniWeb](https://saasradar.fr/tools/geniweb) - Your website in minutes. `Paid from 14,90€/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Development & Tech
 
@@ -194,4 +196,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **143** · Categories: **9** · Last updated: **June 20, 2026**
+Total tools: **145** · Categories: **9** · Last updated: **June 21, 2026**

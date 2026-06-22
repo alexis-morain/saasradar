@@ -46,6 +46,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Emergent](https://saasradar.fr/tools/emergent) - Create apps with AI in an instant. `Custom pricing` `⭐ 7/10`.
 - [Granola](https://saasradar.fr/tools/granola) - AI-powered meeting notes. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [KrispCall](https://saasradar.fr/tools/krispcall) - Smart and Integrated Cloud Telephony. `Freemium` `⭐ 7/10` `🆓 Trial`.
+- [Midjourney](https://saasradar.fr/tools/midjourney) - Create with the most aesthetic AI. `Custom pricing` `⭐ 7/10`.
 - [Predimail](https://saasradar.fr/tools/predimail) - Manage your emails with AI, simply. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Stack AI](https://saasradar.fr/tools/stack-ai) - Deploy AI agents securely. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Wondershare](https://saasradar.fr/tools/wondershare) - Create without limits with AI. `Paid` `⭐ 7/10`.
@@ -139,6 +140,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Postman](https://saasradar.fr/tools/postman) - Accelerate Your API Development. `Freemium` `⭐ 9/10` `🆓 Trial`.
 - [Abby](https://saasradar.fr/tools/abby) - Simplified billing for freelancers. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Airtable](https://saasradar.fr/tools/airtable) - Automate your workflows without code. `Paid` `⭐ 8/10` `🇪🇺 GDPR`.
+- [Asana](https://saasradar.fr/tools/asana) - Collaborate efficiently with Asana AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Cal.com](https://saasradar.fr/tools/cal-com) - Schedule your appointments with ease. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Capacities](https://saasradar.fr/tools/capacities) - Organize your ideas into connected objects. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Coda](https://saasradar.fr/tools/coda) - Centralize your collaborative workflows. `Freemium` `⭐ 8/10` `🆓 Trial`.
@@ -147,6 +149,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Indy](https://saasradar.fr/tools/indy) - Simplified accounting for freelancers. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Lindy](https://saasradar.fr/tools/lindy) - Your AI assistant to save time. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Make](https://saasradar.fr/tools/make) - Automate your workflows visually. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Miro](https://saasradar.fr/tools/miro) - Accelerate innovation with collaborative AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [n8n](https://saasradar.fr/tools/n8n) - Automate your workflows with AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Notion](https://saasradar.fr/tools/notion) - Your personalized AI workspace. `Paid from 10€/utilisateur` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pennylane](https://saasradar.fr/tools/pennylane) - Simplify Your Financial Management. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -196,4 +199,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **145** · Categories: **9** · Last updated: **June 21, 2026**
+Total tools: **148** · Categories: **9** · Last updated: **June 22, 2026**

@@ -122,6 +122,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [WebinarJam](https://saasradar.fr/tools/webinarjam) - Transform your presentations into revenue. `Paid from 39$/mois` `⭐ 8/10` `🆓 Trial`.
 - [WP Rocket](https://saasradar.fr/tools/wp-rocket) - Accelerate your WordPress site. `Paid from 49$/an` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Zoho CRM](https://saasradar.fr/tools/zoho-crm) - Boost your sales with contextual AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Alchie](https://saasradar.fr/tools/alchie) - Unleash your ideas, shine on LinkedIn. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [BetterPic](https://saasradar.fr/tools/betterpic) - Transform your selfies into 4K pro portraits. `Paid from 35$` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Dub](https://saasradar.fr/tools/dub) - Turn clicks into revenue. `Paid` `⭐ 7/10`.
 - [Flippa](https://saasradar.fr/tools/flippa) - Buy and sell digital assets easily. `Custom pricing` `⭐ 7/10`.
@@ -179,6 +180,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Pipedrive](https://saasradar.fr/tools/pipedrive) - Intuitive CRM to boost your sales. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sellsy](https://saasradar.fr/tools/sellsy) - Manage sales and finances on one platform. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Bitrix24](https://saasradar.fr/tools/bitrix24) - Your business, unified and simplified. `Paid from 124€/mois` `⭐ 7/10` `🆓 Trial`.
+- [CallHippo](https://saasradar.fr/tools/callhippo) - Smart communication, simplified. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Copper](https://saasradar.fr/tools/copper) - The CRM integrated with Gmail for SMBs. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Folk](https://saasradar.fr/tools/folk) - The CRM that works for you. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 
@@ -199,4 +201,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **148** · Categories: **9** · Last updated: **June 22, 2026**
+Total tools: **150** · Categories: **9** · Last updated: **June 23, 2026**

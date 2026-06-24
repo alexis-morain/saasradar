@@ -36,8 +36,10 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Littlebird](https://saasradar.fr/tools/littlebird) - The AI assistant that understands you. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Dynamics 365 Sales](https://saasradar.fr/tools/microsoft-dynamics) - Accelerate Sales with Smart AI. `Paid from 56,30€/mois` `⭐ 8/10`.
 - [Monday CRM](https://saasradar.fr/tools/monday-crm) - AI CRM to Accelerate Your Sales. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Monday.com](https://saasradar.fr/tools/monday) - Collaborate with high-performing AI agents. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Omybox](https://saasradar.fr/tools/omybox) - 24/7 AI Assistant for Your Visitors. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Relevance AI](https://saasradar.fr/tools/relevance-ai) - Autonomous agents for real business impact. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
+- [Runway](https://saasradar.fr/tools/runway) - Simulate the world with advanced AI. `Custom pricing` `⭐ 8/10`.
 - [Salesforce](https://saasradar.fr/tools/salesforce) - The AI CRM for accelerated growth. `Paid from 25$/utilisateur/mois` `⭐ 8/10` `🆓 Trial`.
 - [Slite](https://saasradar.fr/tools/slite) - The AI Knowledge Base for Everyone. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tidio](https://saasradar.fr/tools/tidio) - Automated customer service, human touch preserved. `Freemium` `⭐ 8/10` `🆓 Trial`.
@@ -175,6 +177,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 - [Anymail Finder](https://saasradar.fr/tools/anymail-finder) - A SaaS tool reviewed by SaaS Radar. `Paid from 29€/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Axonaut](https://saasradar.fr/tools/axonaut) - Simplify Your Daily Management. `Paid from 97€/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [CloudTalk](https://saasradar.fr/tools/cloudtalk) - Smart calls, increased productivity. `Paid` `⭐ 8/10`.
 - [Foxit](https://saasradar.fr/tools/foxit) - Transform your PDFs intelligently. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [OnePageCRM](https://saasradar.fr/tools/onepagecrm) - The simple CRM for small businesses. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Pipedrive](https://saasradar.fr/tools/pipedrive) - Intuitive CRM to boost your sales. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -201,4 +204,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **150** · Categories: **9** · Last updated: **June 23, 2026**
+Total tools: **153** · Categories: **9** · Last updated: **June 24, 2026**

@@ -45,6 +45,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Tidio](https://saasradar.fr/tools/tidio) - Automated customer service, human touch preserved. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Zapier](https://saasradar.fr/tools/zapier) - Automate your AI workflows without code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [AppFlowy](https://saasradar.fr/tools/appflowy) - Collaborate with AI while staying in control. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Buzz.ai](https://saasradar.fr/tools/buzz-ai) - Automate your B2B sales with AI. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Emergent](https://saasradar.fr/tools/emergent) - Create apps with AI in an instant. `Custom pricing` `⭐ 7/10`.
 - [Granola](https://saasradar.fr/tools/granola) - AI-powered meeting notes. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [KrispCall](https://saasradar.fr/tools/krispcall) - Smart and Integrated Cloud Telephony. `Freemium` `⭐ 7/10` `🆓 Trial`.
@@ -184,6 +185,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Sellsy](https://saasradar.fr/tools/sellsy) - Manage sales and finances on one platform. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Bitrix24](https://saasradar.fr/tools/bitrix24) - Your business, unified and simplified. `Paid from 124€/mois` `⭐ 7/10` `🆓 Trial`.
 - [CallHippo](https://saasradar.fr/tools/callhippo) - Smart communication, simplified. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Capsule](https://saasradar.fr/tools/capsule) - Simple and powerful CRM for SMEs. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Copper](https://saasradar.fr/tools/copper) - The CRM integrated with Gmail for SMBs. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Folk](https://saasradar.fr/tools/folk) - The CRM that works for you. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 
@@ -204,4 +206,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **153** · Categories: **9** · Last updated: **June 24, 2026**
+Total tools: **155** · Categories: **9** · Last updated: **June 25, 2026**

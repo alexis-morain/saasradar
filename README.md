@@ -7,6 +7,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 ## Contents
 
 - [AI & Automation](#ai--automation)
+- [Collaboration & Communication](#collaboration--communication)
 - [Design & Creativity](#design--creativity)
 - [Development & Tech](#development--tech)
 - [Finance & Accounting](#finance--accounting)
@@ -53,6 +54,10 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Predimail](https://saasradar.fr/tools/predimail) - Manage your emails with AI, simply. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Stack AI](https://saasradar.fr/tools/stack-ai) - Deploy AI agents securely. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Wondershare](https://saasradar.fr/tools/wondershare) - Create without limits with AI. `Paid` `⭐ 7/10`.
+
+## Collaboration & Communication
+
+- [Jira](https://saasradar.fr/tools/jira) - AI-powered project management. `Paid` `⭐ 8/10` `🆓 Trial`.
 
 ## Design & Creativity
 
@@ -127,6 +132,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Zoho CRM](https://saasradar.fr/tools/zoho-crm) - Boost your sales with contextual AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Alchie](https://saasradar.fr/tools/alchie) - Unleash your ideas, shine on LinkedIn. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [BetterPic](https://saasradar.fr/tools/betterpic) - Transform your selfies into 4K pro portraits. `Paid from 35$` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Diginius](https://saasradar.fr/tools/diginius) - Optimize your PPC campaigns efficiently. `Custom pricing` `⭐ 7/10` `🆓 Trial`.
 - [Dub](https://saasradar.fr/tools/dub) - Turn clicks into revenue. `Paid` `⭐ 7/10`.
 - [Flippa](https://saasradar.fr/tools/flippa) - Buy and sell digital assets easily. `Custom pricing` `⭐ 7/10`.
 - [Loops](https://saasradar.fr/tools/loops) - Simplified emails for tech businesses. `Freemium` `⭐ 7/10` `🆓 Trial`.
@@ -206,4 +212,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **155** · Categories: **9** · Last updated: **June 25, 2026**
+Total tools: **157** · Categories: **10** · Last updated: **June 26, 2026**

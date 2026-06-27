@@ -96,6 +96,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Shopify](https://saasradar.fr/tools/shopify) - Your online store in one click. `Freemium` `⭐ 9/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [ActiveCampaign](https://saasradar.fr/tools/activecampaign) - Automate your marketing with AI. `Custom pricing` `⭐ 8/10` `🆓 Trial`.
 - [Amplitude](https://saasradar.fr/tools/amplitude) - Analyze and optimize with precision. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Beehiiv](https://saasradar.fr/tools/beehiv) - Easily create and monetize your newsletters. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Brevo](https://saasradar.fr/tools/brevo) - Engage your customers, simplify your campaigns. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Canva](https://saasradar.fr/tools/canva) - Create stunning designs effortlessly. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [DashThis](https://saasradar.fr/tools/dashthis) - Automated marketing reports in one click. `Freemium` `⭐ 8/10` `🆓 Trial`.
@@ -127,6 +128,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [SurveyMonkey](https://saasradar.fr/tools/surveymonkey) - Create surveys, gain insights. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Walaaxy](https://saasradar.fr/tools/walaaxy) - Prospect on LinkedIn with ease. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Web CEO](https://saasradar.fr/tools/web-ceo) - Your all-in-one SEO partner. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [WebinarGeek](https://saasradar.fr/tools/webinargeek) - Professional webinars made simple. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WebinarJam](https://saasradar.fr/tools/webinarjam) - Transform your presentations into revenue. `Paid from 39$/mois` `⭐ 8/10` `🆓 Trial`.
 - [WP Rocket](https://saasradar.fr/tools/wp-rocket) - Accelerate your WordPress site. `Paid from 49$/an` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Zoho CRM](https://saasradar.fr/tools/zoho-crm) - Boost your sales with contextual AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -212,4 +214,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **157** · Categories: **10** · Last updated: **June 26, 2026**
+Total tools: **159** · Categories: **10** · Last updated: **June 27, 2026**

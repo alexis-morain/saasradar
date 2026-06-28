@@ -130,6 +130,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Web CEO](https://saasradar.fr/tools/web-ceo) - Your all-in-one SEO partner. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [WebinarGeek](https://saasradar.fr/tools/webinargeek) - Professional webinars made simple. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WebinarJam](https://saasradar.fr/tools/webinarjam) - Transform your presentations into revenue. `Paid from 39$/mois` `⭐ 8/10` `🆓 Trial`.
+- [Welcome to the Jungle](https://saasradar.fr/tools/welcome-to-the-jungle) - Recruit the talents that match you. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [WP Rocket](https://saasradar.fr/tools/wp-rocket) - Accelerate your WordPress site. `Paid from 49$/an` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Zoho CRM](https://saasradar.fr/tools/zoho-crm) - Boost your sales with contextual AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Alchie](https://saasradar.fr/tools/alchie) - Unleash your ideas, shine on LinkedIn. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -155,6 +156,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Asana](https://saasradar.fr/tools/asana) - Collaborate efficiently with Asana AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Cal.com](https://saasradar.fr/tools/cal-com) - Schedule your appointments with ease. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Capacities](https://saasradar.fr/tools/capacities) - Organize your ideas into connected objects. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [ClickUp](https://saasradar.fr/tools/clickup) - Productivity reinvented by AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Coda](https://saasradar.fr/tools/coda) - Centralize your collaborative workflows. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Comp AI](https://saasradar.fr/tools/comp-ai) - Automate your compliance with AI. `Custom pricing` `⭐ 8/10` `🆓 Trial`.
 - [Glide](https://saasradar.fr/tools/glide) - Create powerful apps without coding. `Freemium` `⭐ 8/10` `🆓 Trial`.
@@ -173,6 +175,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Travel Code](https://saasradar.fr/tools/travel-code) - Simplified business travel, guaranteed savings. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Wispr Flow](https://saasradar.fr/tools/wispr-flow) - Dictate, don't type! `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Anytype](https://saasradar.fr/tools/anytype) - Collaborate securely, anywhere. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Basecamp](https://saasradar.fr/tools/basecamp) - Simplified and efficient project management. `Paid from 99$/mois` `⭐ 7/10` `🆓 Trial`.
 - [Buddy Punch](https://saasradar.fr/tools/buddy-punch) - Simplified and Affordable Time Tracking. `Paid` `⭐ 7/10`.
 - [MRPeasy](https://saasradar.fr/tools/mrpeasy) - Optimize your production with precision. `Paid` `⭐ 7/10` `🆓 Trial`.
 - [NocoDB](https://saasradar.fr/tools/nocodb) - Transform your databases into spreadsheets. `Freemium` `⭐ 7/10` `🆓 Trial`.
@@ -214,4 +217,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **159** · Categories: **10** · Last updated: **June 27, 2026**
+Total tools: **162** · Categories: **10** · Last updated: **June 28, 2026**

@@ -141,6 +141,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Loops](https://saasradar.fr/tools/loops) - Simplified emails for tech businesses. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [noCRM.io](https://saasradar.fr/tools/nocrm) - Quickly turn prospects into customers. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Resend](https://saasradar.fr/tools/resend) - Send emails, not spam. `Custom pricing` `⭐ 7/10`.
+- [Salesflow](https://saasradar.fr/tools/salesflow) - Optimize your sales efficiently. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Survicate](https://saasradar.fr/tools/survicate) - Turn customer feedback into actionable insights. `Paid` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Kit](https://saasradar.fr/tools/kit) - The marketing platform for creators. `Freemium` `⭐ 6/10` `🆓 Trial`.
 
@@ -182,6 +183,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Outline](https://saasradar.fr/tools/outline) - Organize your team's knowledge efficiently. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [PDWare](https://saasradar.fr/tools/pdware) - Optimize your resources, achieve your projects. `Custom pricing` `⭐ 7/10`.
 - [SeDomicilier](https://saasradar.fr/tools/sedomicilier) - Easily register your business online. `Paid from 11€/mois` `⭐ 7/10`.
+- [Selki](https://saasradar.fr/tools/selki) - Simplified billing for freelancers. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Slab](https://saasradar.fr/tools/slab) - Share knowledge, simply. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Wave](https://saasradar.fr/tools/wave) - Manage your accounting stress-free. `Freemium` `⭐ 7/10` `🆓 Trial`.
 
@@ -217,4 +219,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **162** · Categories: **10** · Last updated: **June 28, 2026**
+Total tools: **164** · Categories: **10** · Last updated: **June 29, 2026**

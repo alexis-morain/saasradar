@@ -114,6 +114,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Lead Pages](https://saasradar.fr/tools/lead-page) - Create pages that convert. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Lemlist](https://saasradar.fr/tools/lemlist) - Simplified Multichannel Prospecting. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [LinkMiner](https://saasradar.fr/tools/linkminer) - Easily analyze your backlinks. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Livestorm](https://saasradar.fr/tools/livestorm) - Engaging webinars, proven results. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Mailchimp](https://saasradar.fr/tools/mailchimp) - Smart marketing for everyone. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Mangools](https://saasradar.fr/tools/mangools) - SEO simplified for everyone. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Manychat](https://saasradar.fr/tools/manychat) - Automate your marketing conversations. `Freemium` `⭐ 8/10` `🆓 Trial`.
@@ -174,7 +175,9 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Tana](https://saasradar.fr/tools/tana) - Productive meetings, work accomplished. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Tiime](https://saasradar.fr/tools/tiime) - Simplified accounting for entrepreneurs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Travel Code](https://saasradar.fr/tools/travel-code) - Simplified business travel, guaranteed savings. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Trello](https://saasradar.fr/tools/trello) - Organize your tasks, boost your productivity. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Wispr Flow](https://saasradar.fr/tools/wispr-flow) - Dictate, don't type! `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Wrike](https://saasradar.fr/tools/wrike) - Optimize Your Complex Workflows. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Anytype](https://saasradar.fr/tools/anytype) - Collaborate securely, anywhere. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Basecamp](https://saasradar.fr/tools/basecamp) - Simplified and efficient project management. `Paid from 99$/mois` `⭐ 7/10` `🆓 Trial`.
 - [Buddy Punch](https://saasradar.fr/tools/buddy-punch) - Simplified and Affordable Time Tracking. `Paid` `⭐ 7/10`.
@@ -219,4 +222,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **164** · Categories: **10** · Last updated: **June 29, 2026**
+Total tools: **167** · Categories: **10** · Last updated: **June 30, 2026**

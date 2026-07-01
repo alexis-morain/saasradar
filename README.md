@@ -45,6 +45,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Slite](https://saasradar.fr/tools/slite) - The AI Knowledge Base for Everyone. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tidio](https://saasradar.fr/tools/tidio) - Automated customer service, human touch preserved. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Zapier](https://saasradar.fr/tools/zapier) - Automate your AI workflows without code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Amen](https://saasradar.fr/tools/amen) - Create your website with integrated AI. `Paid from 1,85€/mois` `⭐ 7/10`.
 - [AppFlowy](https://saasradar.fr/tools/appflowy) - Collaborate with AI while staying in control. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Buzz.ai](https://saasradar.fr/tools/buzz-ai) - Automate your B2B sales with AI. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Emergent](https://saasradar.fr/tools/emergent) - Create apps with AI in an instant. `Custom pricing` `⭐ 7/10`.
@@ -124,6 +125,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [SendGrid](https://saasradar.fr/tools/sendgrid) - Send emails at scale. `Custom pricing` `⭐ 8/10`.
 - [SERPChecker](https://saasradar.fr/tools/serpchecker) - Analyze your competitors effectively. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [SERPWatcher](https://saasradar.fr/tools/serpwatcher) - Easily track your SEO rankings. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Signitic](https://saasradar.fr/tools/signitic) - Transform your emails into marketing levers. `Paid` `⭐ 8/10` `🇪🇺 GDPR`.
 - [SiteProfiler](https://saasradar.fr/tools/siteprofiler) - Comprehensive and Free SEO Analysis. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [StreamYard](https://saasradar.fr/tools/streamyard) - Stream live, simply. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [SurveyMonkey](https://saasradar.fr/tools/surveymonkey) - Create surveys, gain insights. `Freemium` `⭐ 8/10` `🆓 Trial`.
@@ -222,4 +224,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **167** · Categories: **10** · Last updated: **June 30, 2026**
+Total tools: **169** · Categories: **10** · Last updated: **July 1, 2026**

@@ -83,6 +83,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Rust](https://saasradar.fr/tools/rust) - Build with confidence and efficiency. `Free` `⭐ 9/10` `🆓 Trial`.
 - [SvelteKit](https://saasradar.fr/tools/sveltekit) - Simplified Web Development. `Free` `⭐ 9/10` `🆓 Trial`.
 - [Bubble](https://saasradar.fr/tools/bubble) - Create apps without coding using AI. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [PlanetHoster](https://saasradar.fr/tools/planethoster) - High-performance and secure web hosting. `Paid from 5,49€/mois` `⭐ 8/10` `🇪🇺 GDPR`.
 
 ## Finance & Accounting
 
@@ -183,6 +184,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Anytype](https://saasradar.fr/tools/anytype) - Collaborate securely, anywhere. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Basecamp](https://saasradar.fr/tools/basecamp) - Simplified and efficient project management. `Paid from 99$/mois` `⭐ 7/10` `🆓 Trial`.
 - [Buddy Punch](https://saasradar.fr/tools/buddy-punch) - Simplified and Affordable Time Tracking. `Paid` `⭐ 7/10`.
+- [Freebe](https://saasradar.fr/tools/freebe) - Simplified billing for freelancers. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [MRPeasy](https://saasradar.fr/tools/mrpeasy) - Optimize your production with precision. `Paid` `⭐ 7/10` `🆓 Trial`.
 - [NocoDB](https://saasradar.fr/tools/nocodb) - Transform your databases into spreadsheets. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Outline](https://saasradar.fr/tools/outline) - Organize your team's knowledge efficiently. `Freemium` `⭐ 7/10` `🆓 Trial`.
@@ -224,4 +226,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **169** · Categories: **10** · Last updated: **July 1, 2026**
+Total tools: **171** · Categories: **10** · Last updated: **July 2, 2026**

@@ -72,6 +72,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Wix Studio](https://saasradar.fr/tools/wix-studio) - Create exceptional websites at scale. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Fiverr](https://saasradar.fr/tools/fiverr) - Find global talent with one click. `Paid` `⭐ 7/10`.
 - [GeniWeb](https://saasradar.fr/tools/geniweb) - Your website in minutes. `Paid from 14,90€/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Wegic](https://saasradar.fr/tools/wegic) - Create your website in a flash. `Freemium` `⭐ 7/10` `🆓 Trial`.
 
 ## Development & Tech
 
@@ -144,6 +145,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Flippa](https://saasradar.fr/tools/flippa) - Buy and sell digital assets easily. `Custom pricing` `⭐ 7/10`.
 - [Loops](https://saasradar.fr/tools/loops) - Simplified emails for tech businesses. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [noCRM.io](https://saasradar.fr/tools/nocrm) - Quickly turn prospects into customers. `Freemium` `⭐ 7/10` `🆓 Trial`.
+- [Reditus](https://saasradar.fr/tools/reditus) - Simplified B2B SaaS Affiliates. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Resend](https://saasradar.fr/tools/resend) - Send emails, not spam. `Custom pricing` `⭐ 7/10`.
 - [Salesflow](https://saasradar.fr/tools/salesflow) - Optimize your sales efficiently. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Survicate](https://saasradar.fr/tools/survicate) - Turn customer feedback into actionable insights. `Paid` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -226,4 +228,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **171** · Categories: **10** · Last updated: **July 2, 2026**
+Total tools: **173** · Categories: **10** · Last updated: **July 3, 2026**

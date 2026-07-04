@@ -45,6 +45,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Slite](https://saasradar.fr/tools/slite) - The AI Knowledge Base for Everyone. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tidio](https://saasradar.fr/tools/tidio) - Automated customer service, human touch preserved. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Zapier](https://saasradar.fr/tools/zapier) - Automate your AI workflows without code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [AISQ](https://saasradar.fr/tools/aisq) - Your AI-Orchestrated Marketing. `Paid` `⭐ 7/10`.
 - [Amen](https://saasradar.fr/tools/amen) - Create your website with integrated AI. `Paid from 1,85€/mois` `⭐ 7/10`.
 - [AppFlowy](https://saasradar.fr/tools/appflowy) - Collaborate with AI while staying in control. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Buzz.ai](https://saasradar.fr/tools/buzz-ai) - Automate your B2B sales with AI. `Freemium` `⭐ 7/10` `🆓 Trial`.
@@ -171,11 +172,13 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Lindy](https://saasradar.fr/tools/lindy) - Your AI assistant to save time. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Make](https://saasradar.fr/tools/make) - Automate your workflows visually. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Miro](https://saasradar.fr/tools/miro) - Accelerate innovation with collaborative AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Motion](https://saasradar.fr/tools/motion) - Double your productivity with AI. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [n8n](https://saasradar.fr/tools/n8n) - Automate your workflows with AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Notion](https://saasradar.fr/tools/notion) - Your personalized AI workspace. `Paid from 10€/utilisateur` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pennylane](https://saasradar.fr/tools/pennylane) - Simplify Your Financial Management. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Pipedream](https://saasradar.fr/tools/pipedream) - Automate your processes in a flash. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Qonto](https://saasradar.fr/tools/qonto) - Your all-in-one business account. `Paid` `⭐ 8/10` `🇪🇺 GDPR`.
+- [Shine](https://saasradar.fr/tools/shine) - Votre compte pro, simple et efficace. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Softr](https://saasradar.fr/tools/softr) - Create professional apps without coding. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tana](https://saasradar.fr/tools/tana) - Productive meetings, work accomplished. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Tiime](https://saasradar.fr/tools/tiime) - Simplified accounting for entrepreneurs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -228,4 +231,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **173** · Categories: **10** · Last updated: **July 3, 2026**
+Total tools: **176** · Categories: **10** · Last updated: **July 4, 2026**

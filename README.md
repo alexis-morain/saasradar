@@ -164,6 +164,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Asana](https://saasradar.fr/tools/asana) - Collaborate efficiently with Asana AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Cal.com](https://saasradar.fr/tools/cal-com) - Schedule your appointments with ease. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Capacities](https://saasradar.fr/tools/capacities) - Organize your ideas into connected objects. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Cerri](https://saasradar.fr/tools/cerri) - Maîtrisez vos projets d'entreprise. `Custom pricing` `⭐ 8/10`.
 - [ClickUp](https://saasradar.fr/tools/clickup) - Productivity reinvented by AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Coda](https://saasradar.fr/tools/coda) - Centralize your collaborative workflows. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Comp AI](https://saasradar.fr/tools/comp-ai) - Automate your compliance with AI. `Custom pricing` `⭐ 8/10` `🆓 Trial`.
@@ -231,4 +232,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **176** · Categories: **10** · Last updated: **July 4, 2026**
+Total tools: **178** · Categories: **10** · Last updated: **July 5, 2026**

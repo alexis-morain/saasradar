@@ -171,6 +171,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Glide](https://saasradar.fr/tools/glide) - Create powerful apps without coding. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Indy](https://saasradar.fr/tools/indy) - Simplified accounting for freelancers. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Lindy](https://saasradar.fr/tools/lindy) - Your AI assistant to save time. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Loom](https://saasradar.fr/tools/loom) - Capture, edit, share in one click. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Make](https://saasradar.fr/tools/make) - Automate your workflows visually. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Miro](https://saasradar.fr/tools/miro) - Accelerate innovation with collaborative AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Motion](https://saasradar.fr/tools/motion) - Double your productivity with AI. `Freemium` `⭐ 8/10` `🆓 Trial`.
@@ -183,6 +184,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Softr](https://saasradar.fr/tools/softr) - Create professional apps without coding. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tana](https://saasradar.fr/tools/tana) - Productive meetings, work accomplished. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Tiime](https://saasradar.fr/tools/tiime) - Simplified accounting for entrepreneurs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Todoist](https://saasradar.fr/tools/todoist) - Organize your life at a glance. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Travel Code](https://saasradar.fr/tools/travel-code) - Simplified business travel, guaranteed savings. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Trello](https://saasradar.fr/tools/trello) - Organize your tasks, boost your productivity. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Wispr Flow](https://saasradar.fr/tools/wispr-flow) - Dictate, don't type! `Freemium` `⭐ 8/10` `🆓 Trial`.
@@ -199,6 +201,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Selki](https://saasradar.fr/tools/selki) - Simplified billing for freelancers. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Slab](https://saasradar.fr/tools/slab) - Share knowledge, simply. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Wave](https://saasradar.fr/tools/wave) - Manage your accounting stress-free. `Freemium` `⭐ 7/10` `🆓 Trial`.
+- [WebCatalog](https://saasradar.fr/tools/webcatalog) - Transform your sites into desktop applications. `Freemium` `⭐ 7/10` `🆓 Trial`.
 
 ## Sales & CRM
 
@@ -232,4 +235,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **178** · Categories: **10** · Last updated: **July 5, 2026**
+Total tools: **181** · Categories: **10** · Last updated: **July 6, 2026**

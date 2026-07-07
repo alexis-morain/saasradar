@@ -24,6 +24,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [VS Code](https://saasradar.fr/tools/vscode) - Smart and Collaborative Coding. `Free` `⭐ 9/10` `🆓 Trial`.
 - [Affinity](https://saasradar.fr/tools/affinity) - Creativity without limits, no cost. `Free` `⭐ 8/10` `🆓 Trial`.
 - [Aircall](https://saasradar.fr/tools/aircall) - Unified and Intelligent Client Communications. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
+- [Amplemarket](https://saasradar.fr/tools/amplemarket) - Revolutionize Your Sales with AI. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Anara](https://saasradar.fr/tools/anara) - AI for Your Academic Research. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Apollo.io](https://saasradar.fr/tools/apollo-io) - Accelerate your B2B sales with AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Bold Desk](https://saasradar.fr/tools/bold-desk) - Intelligent and Fast Customer Service. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -66,6 +67,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [React](https://saasradar.fr/tools/react) - Create Dynamic Interfaces. `Free` `⭐ 9/10` `🆓 Trial`.
 - [Tailwind CSS](https://saasradar.fr/tools/tailwind-css) - Create modern websites directly in HTML. `Free` `⭐ 9/10` `🆓 Trial`.
 - [Wix](https://saasradar.fr/tools/wix) - Create your website with ease. `Freemium` `⭐ 9/10` `🆓 Trial`.
+- [Wordpress](https://saasradar.fr/tools/wordpress) - Easily create your WordPress site. `Freemium` `⭐ 9/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [FlutterFlow](https://saasradar.fr/tools/flutterflow) - Quickly create custom apps. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Framer](https://saasradar.fr/tools/framer) - Create professional sites without coding. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [SnapPack](https://saasradar.fr/tools/snappack) - Pro product photos without a studio. `Paid from 19€/mois` `⭐ 8/10` `🆓 Trial`.
@@ -144,6 +146,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Diginius](https://saasradar.fr/tools/diginius) - Optimize your PPC campaigns efficiently. `Custom pricing` `⭐ 7/10` `🆓 Trial`.
 - [Dub](https://saasradar.fr/tools/dub) - Turn clicks into revenue. `Paid` `⭐ 7/10`.
 - [Flippa](https://saasradar.fr/tools/flippa) - Buy and sell digital assets easily. `Custom pricing` `⭐ 7/10`.
+- [Grape Leads](https://saasradar.fr/tools/grape-leads) - Find clients without a website. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Loops](https://saasradar.fr/tools/loops) - Simplified emails for tech businesses. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [noCRM.io](https://saasradar.fr/tools/nocrm) - Quickly turn prospects into customers. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Reditus](https://saasradar.fr/tools/reditus) - Simplified B2B SaaS Affiliates. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -235,4 +238,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **181** · Categories: **10** · Last updated: **July 6, 2026**
+Total tools: **183** · Categories: **10** · Last updated: **July 7, 2026**

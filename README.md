@@ -134,6 +134,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [SiteProfiler](https://saasradar.fr/tools/siteprofiler) - Comprehensive and Free SEO Analysis. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [StreamYard](https://saasradar.fr/tools/streamyard) - Stream live, simply. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [SurveyMonkey](https://saasradar.fr/tools/surveymonkey) - Create surveys, gain insights. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [TapStitch](https://saasradar.fr/tools/tapstitch) - Create and sell without stock or initial costs. `Custom pricing` `⭐ 8/10`.
 - [Walaaxy](https://saasradar.fr/tools/walaaxy) - Prospect on LinkedIn with ease. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Web CEO](https://saasradar.fr/tools/web-ceo) - Your all-in-one SEO partner. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [WebinarGeek](https://saasradar.fr/tools/webinargeek) - Professional webinars made simple. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -171,6 +172,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [ClickUp](https://saasradar.fr/tools/clickup) - Productivity reinvented by AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Coda](https://saasradar.fr/tools/coda) - Centralize your collaborative workflows. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Comp AI](https://saasradar.fr/tools/comp-ai) - Automate your compliance with AI. `Custom pricing` `⭐ 8/10` `🆓 Trial`.
+- [Dropbox](https://saasradar.fr/tools/dropbox) - Secure and Collaborative Cloud Storage. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Glide](https://saasradar.fr/tools/glide) - Create powerful apps without coding. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Indy](https://saasradar.fr/tools/indy) - Simplified accounting for freelancers. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Lindy](https://saasradar.fr/tools/lindy) - Your AI assistant to save time. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -186,6 +188,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Shine](https://saasradar.fr/tools/shine) - Votre compte pro, simple et efficace. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Softr](https://saasradar.fr/tools/softr) - Create professional apps without coding. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tana](https://saasradar.fr/tools/tana) - Productive meetings, work accomplished. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
+- [Things](https://saasradar.fr/tools/things) - Organize your tasks with elegance. `Paid` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Tiime](https://saasradar.fr/tools/tiime) - Simplified accounting for entrepreneurs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Todoist](https://saasradar.fr/tools/todoist) - Organize your life at a glance. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Travel Code](https://saasradar.fr/tools/travel-code) - Simplified business travel, guaranteed savings. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -238,4 +241,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **183** · Categories: **10** · Last updated: **July 7, 2026**
+Total tools: **186** · Categories: **10** · Last updated: **July 8, 2026**

@@ -22,6 +22,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 - [ChatGPT](https://saasradar.fr/tools/chatgpt) - Your daily AI assistant. `Freemium` `⭐ 9/10` `🆓 Trial`.
 - [VS Code](https://saasradar.fr/tools/vscode) - Smart and Collaborative Coding. `Free` `⭐ 9/10` `🆓 Trial`.
+- [Ad Turbo](https://saasradar.fr/tools/ad-turbo) - Optimize your Google Ads with AI. `Paid from 149€/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Affinity](https://saasradar.fr/tools/affinity) - Creativity without limits, no cost. `Free` `⭐ 8/10` `🆓 Trial`.
 - [Aircall](https://saasradar.fr/tools/aircall) - Unified and Intelligent Client Communications. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Amplemarket](https://saasradar.fr/tools/amplemarket) - Revolutionize Your Sales with AI. `Freemium` `⭐ 8/10` `🆓 Trial`.
@@ -175,6 +176,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Dropbox](https://saasradar.fr/tools/dropbox) - Secure and Collaborative Cloud Storage. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Glide](https://saasradar.fr/tools/glide) - Create powerful apps without coding. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Indy](https://saasradar.fr/tools/indy) - Simplified accounting for freelancers. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Keobiz](https://saasradar.fr/tools/keobiz) - Your accounting simplified, no surprises. `Paid from 49€/mois` `⭐ 8/10`.
 - [Lindy](https://saasradar.fr/tools/lindy) - Your AI assistant to save time. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Loom](https://saasradar.fr/tools/loom) - Capture, edit, share in one click. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Make](https://saasradar.fr/tools/make) - Automate your workflows visually. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -241,4 +243,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **186** · Categories: **10** · Last updated: **July 8, 2026**
+Total tools: **188** · Categories: **10** · Last updated: **July 9, 2026**

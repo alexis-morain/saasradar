@@ -175,11 +175,13 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Comp AI](https://saasradar.fr/tools/comp-ai) - Automate your compliance with AI. `Custom pricing` `⭐ 8/10` `🆓 Trial`.
 - [Dropbox](https://saasradar.fr/tools/dropbox) - Secure and Collaborative Cloud Storage. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Glide](https://saasradar.fr/tools/glide) - Create powerful apps without coding. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Google Drive](https://saasradar.fr/tools/google-drive) - Secure and Collaborative Cloud Storage. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Indy](https://saasradar.fr/tools/indy) - Simplified accounting for freelancers. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Keobiz](https://saasradar.fr/tools/keobiz) - Your accounting simplified, no surprises. `Paid from 49€/mois` `⭐ 8/10`.
 - [Lindy](https://saasradar.fr/tools/lindy) - Your AI assistant to save time. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Loom](https://saasradar.fr/tools/loom) - Capture, edit, share in one click. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Make](https://saasradar.fr/tools/make) - Automate your workflows visually. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Meetily](https://saasradar.fr/tools/meetily) - Local, free, and secure transcription. `Free` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Miro](https://saasradar.fr/tools/miro) - Accelerate innovation with collaborative AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Motion](https://saasradar.fr/tools/motion) - Double your productivity with AI. `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [n8n](https://saasradar.fr/tools/n8n) - Automate your workflows with AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -197,6 +199,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Trello](https://saasradar.fr/tools/trello) - Organize your tasks, boost your productivity. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Wispr Flow](https://saasradar.fr/tools/wispr-flow) - Dictate, don't type! `Freemium` `⭐ 8/10` `🆓 Trial`.
 - [Wrike](https://saasradar.fr/tools/wrike) - Optimize Your Complex Workflows. `Freemium` `⭐ 8/10` `🆓 Trial`.
+- [Akiflow](https://saasradar.fr/tools/akiflow) - Organize your time, master your day. `Paid` `⭐ 7/10` `🆓 Trial`.
 - [Anytype](https://saasradar.fr/tools/anytype) - Collaborate securely, anywhere. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Basecamp](https://saasradar.fr/tools/basecamp) - Simplified and efficient project management. `Paid from 99$/mois` `⭐ 7/10` `🆓 Trial`.
 - [Buddy Punch](https://saasradar.fr/tools/buddy-punch) - Simplified and Affordable Time Tracking. `Paid` `⭐ 7/10`.
@@ -243,4 +246,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **188** · Categories: **10** · Last updated: **July 9, 2026**
+Total tools: **191** · Categories: **10** · Last updated: **July 10, 2026**

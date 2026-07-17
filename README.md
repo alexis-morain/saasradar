@@ -64,6 +64,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Ad Turbo](https://saasradar.fr/tools/ad-turbo) - The AI agent that runs your Google Ads campaigns around the clock. `Paid from 149 $/mois` `⭐ 6/10` `🆓 Trial`.
 - [AISQ](https://saasradar.fr/tools/aisq) - Squirrly's AI marketing infrastructure. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [ImmoAI](https://saasradar.fr/tools/immoai) - AI-powered rental investment analysis. `Freemium` `⭐ 6/10` `🆓 Trial`.
+- [Leader Leads](https://saasradar.fr/tools/leader-leads) - The mobile CRM that captures calls, notes, and follow-ups from your phone. `Freemium` `⭐ 6/10` `🆓 Trial`.
 - [Predimail](https://saasradar.fr/tools/predimail) - The AI assistant for managing professional email. `Paid from Dès 99 €/mois (plan Pro)` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Analytics & Data
@@ -138,6 +139,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Jenkins](https://saasradar.fr/tools/jenkins) - The long-standing open-source automation and CI/CD server. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [PlanetHoster](https://saasradar.fr/tools/planethoster) - The French-Canadian web host with its own N0C panel. `Paid from 5,49 €/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [React Email](https://saasradar.fr/tools/react-email) - The open-source library to build emails with React. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
+- [UptimeRobot](https://saasradar.fr/tools/uptimerobot) - Uptime monitoring for your sites and APIs. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 
 ## E-commerce & Online Sales
 
@@ -312,6 +314,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Softr](https://saasradar.fr/tools/softr) - Build no-code apps and portals from Airtable. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tana](https://saasradar.fr/tools/tana) - The AI-native workspace structured by supertags. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [WebCatalog](https://saasradar.fr/tools/webcatalog) - Turn websites into organized desktop apps. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [WeTransfer](https://saasradar.fr/tools/wetransfer) - Sending large files with a simple link. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Wispr Flow](https://saasradar.fr/tools/wispr-flow) - The AI voice dictation that writes into any app. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [PDWare](https://saasradar.fr/tools/pdware) - Enterprise resource and project portfolio management. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Selki](https://saasradar.fr/tools/selki) - Simple invoicing and quotes for French freelancers. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
@@ -356,4 +359,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **277** · Categories: **16** · Last updated: **July 14, 2026**
+Total tools: **280** · Categories: **16** · Last updated: **July 17, 2026**

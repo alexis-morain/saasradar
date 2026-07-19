@@ -271,6 +271,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Jest](https://saasradar.fr/tools/jest) - The JavaScript testing framework built by Meta. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Loom](https://saasradar.fr/tools/loom) - Asynchronous screen recording to communicate without meetings. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Make](https://saasradar.fr/tools/make) - Automate your tools without writing code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Microsoft Teams](https://saasradar.fr/tools/microsoft-teams) - Team collaboration built into Microsoft 365. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Miro](https://saasradar.fr/tools/miro) - The online collaborative whiteboard. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [n8n](https://saasradar.fr/tools/n8n) - Open source, self-hostable workflow automation. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Notion](https://saasradar.fr/tools/notion) - Docs, wikis, and databases in one workspace. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -297,6 +298,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Freebe](https://saasradar.fr/tools/freebe) - All-in-one management for French freelancers. `Paid from 12,50 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Glide](https://saasradar.fr/tools/glide) - The no-code app builder powered by your data. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Keobiz](https://saasradar.fr/tools/keobiz) - The online chartered accounting firm for business owners and property investors. `Paid from Dès 49 €/mois HT` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Les Tricolores](https://saasradar.fr/tools/les-tricolores) - French-style business address and mail handling. `Paid from 14,90 €/mois HT` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Lindy](https://saasradar.fr/tools/lindy) - No-code AI agents that execute your tasks. `Paid from 49,99 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Meetily](https://saasradar.fr/tools/meetily) - The open-source, fully local AI meeting assistant. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Mendeley](https://saasradar.fr/tools/mendeley) - Elsevier's reference manager and academic network. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -359,4 +361,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **280** · Categories: **16** · Last updated: **July 18, 2026**
+Total tools: **282** · Categories: **16** · Last updated: **July 19, 2026**

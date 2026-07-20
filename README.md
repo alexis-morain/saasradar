@@ -41,6 +41,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Monday.com](https://saasradar.fr/tools/monday) - The visual Work OS for building your own tools. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Runway](https://saasradar.fr/tools/runway) - The reference platform for AI video generation and editing. `Freemium` `⭐ 8/10`.
 - [Salesforce](https://saasradar.fr/tools/salesforce) - The leading enterprise CRM platform. `Paid from 25 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Slack](https://saasradar.fr/tools/slack) - Team messaging organized into channels. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Zapier](https://saasradar.fr/tools/zapier) - No-code automation across more than 7,000 apps. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Amen](https://saasradar.fr/tools/amen) - The French web host and domain registrar. `Paid from 2,65 €/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Amplemarket](https://saasradar.fr/tools/amplemarket) - The all-in-one B2B sales prospecting platform. `Paid from 600 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -361,4 +362,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **282** · Categories: **16** · Last updated: **July 19, 2026**
+Total tools: **283** · Categories: **16** · Last updated: **July 20, 2026**

@@ -82,6 +82,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 ## Collaboration & Communication
 
+- [Discord](https://saasradar.fr/tools/discord) - Voice, video, and text chat for communities. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Jira](https://saasradar.fr/tools/jira) - Atlassian's issue tracking and agile project management tool. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Customer Service & Support
@@ -363,4 +364,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **284** · Categories: **16** · Last updated: **July 21, 2026**
+Total tools: **285** · Categories: **16** · Last updated: **July 22, 2026**

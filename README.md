@@ -245,6 +245,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [WebinarGeek](https://saasradar.fr/tools/webinargeek) - The European webinar platform, live or automated. `Paid from 49 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WebinarJam](https://saasradar.fr/tools/webinarjam) - Live webinars at scale. `Paid from 39 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WhatsApp](https://saasradar.fr/tools/whatsapp) - Meta's messaging app and its business platform for companies. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Algomo](https://saasradar.fr/tools/algomo) - Visitor identification and B2B outbound prospecting. `Paid from 200 $/mois` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Bien'ici](https://saasradar.fr/tools/bien-ici) - The French real estate portal with immersive map-based search. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Diginius](https://saasradar.fr/tools/diginius) - Multichannel marketing analytics for agencies and businesses. `Paid from 75 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Grape Leads](https://saasradar.fr/tools/grape-leads) - Local lead generation straight from Google Maps. `Paid from 28 $ / 50 crédits` `⭐ 6/10` `🆓 Trial`.
@@ -365,4 +366,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **286** · Categories: **16** · Last updated: **July 23, 2026**
+Total tools: **287** · Categories: **16** · Last updated: **July 24, 2026**

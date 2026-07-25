@@ -35,6 +35,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [CodeRabbit](https://saasradar.fr/tools/coderabbit) - AI-powered code review on your pull requests. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Gemini](https://saasradar.fr/tools/gemini) - Google's AI assistant, built into Search and Workspace. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Linear](https://saasradar.fr/tools/linear) - Fast project management for product and tech teams. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Microsoft Copilot](https://saasradar.fr/tools/copilot) - The AI assistant for Windows and Microsoft 365. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Dynamics 365 Sales](https://saasradar.fr/tools/microsoft-dynamics) - The enterprise CRM at the heart of the Microsoft ecosystem. `Paid from 65 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Midjourney](https://saasradar.fr/tools/midjourney) - The reference AI image generator for creatives. `Paid from 10 $/mois` `⭐ 8/10`.
 - [Monday CRM](https://saasradar.fr/tools/monday-crm) - monday.com's visual, customizable CRM. `Paid from 12 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -366,4 +367,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **287** · Categories: **16** · Last updated: **July 24, 2026**
+Total tools: **288** · Categories: **16** · Last updated: **July 25, 2026**

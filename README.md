@@ -276,6 +276,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Jest](https://saasradar.fr/tools/jest) - The JavaScript testing framework built by Meta. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Loom](https://saasradar.fr/tools/loom) - Asynchronous screen recording to communicate without meetings. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Make](https://saasradar.fr/tools/make) - Automate your tools without writing code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Mattermost](https://saasradar.fr/tools/mattermost) - Open-source, self-hostable team messaging. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Teams](https://saasradar.fr/tools/microsoft-teams) - Team collaboration built into Microsoft 365. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Miro](https://saasradar.fr/tools/miro) - The online collaborative whiteboard. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [n8n](https://saasradar.fr/tools/n8n) - Open source, self-hostable workflow automation. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -367,4 +368,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **288** · Categories: **16** · Last updated: **July 25, 2026**
+Total tools: **289** · Categories: **16** · Last updated: **July 26, 2026**

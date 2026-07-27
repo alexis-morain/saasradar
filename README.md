@@ -217,6 +217,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [EverWebinar](https://saasradar.fr/tools/everwebinar) - The automated (evergreen) webinar, by Genesis Digital. `Paid from 99 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Flippa](https://saasradar.fr/tools/flippa) - The marketplace for buying and selling online businesses. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Full Enrich](https://saasradar.fr/tools/full-enrich) - Waterfall B2B contact enrichment. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Geo Targetly](https://saasradar.fr/tools/geo-targetly) - Web geo-targeting: content and redirects by country. `Paid from 12 $/mois` `⭐ 7/10` `🆓 Trial`.
 - [Hector](https://saasradar.fr/tools/hector) - AI-driven optimization for Amazon advertising. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Instantly](https://saasradar.fr/tools/instantly) - Cold email at scale. `Paid from 37 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Interact](https://saasradar.fr/tools/interact) - The interactive quiz builder for capturing leads. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -368,4 +369,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **289** · Categories: **16** · Last updated: **July 26, 2026**
+Total tools: **290** · Categories: **16** · Last updated: **July 27, 2026**

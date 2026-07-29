@@ -167,6 +167,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 ## HR & Recruitment
 
+- [Eurécia](https://saasradar.fr/tools/eurecia) - Modular French HRIS for SMBs, no payroll engine. `Paid from 4,20 € HT / collaborateur / mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [ADP](https://saasradar.fr/tools/adp) - The long-standing giant of payroll and outsourced HR management. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Gusto](https://saasradar.fr/tools/gusto) - The payroll and HR software for small US businesses. `Paid from Sur abonnement` `⭐ 6/10`.
 
@@ -285,6 +286,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Pennylane](https://saasradar.fr/tools/pennylane) - The accounting and financial management platform for SMBs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Perplexity](https://saasradar.fr/tools/perplexity) - The AI answer engine that cites its sources. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Qonto](https://saasradar.fr/tools/qonto) - The business account that also handles pre-accounting. `Paid from 49 €/mois HT` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Rocket.Chat](https://saasradar.fr/tools/rocket-chat) - Open-source, self-hostable messaging built for sovereignty. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Things](https://saasradar.fr/tools/things) - The elegant, award-winning task manager, exclusively for Apple. `Paid from 9,99 $ (iPhone)` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [TickTick](https://saasradar.fr/tools/ticktick) - The all-in-one task manager with calendar and habit tracking. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Tiime](https://saasradar.fr/tools/tiime) - Invoicing and business banking for freelancers and small businesses. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -370,4 +372,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **291** · Categories: **16** · Last updated: **July 28, 2026**
+Total tools: **293** · Categories: **16** · Last updated: **July 29, 2026**

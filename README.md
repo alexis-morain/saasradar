@@ -55,6 +55,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Frase](https://saasradar.fr/tools/frase) - The AI-assisted SEO writing tool. `Paid from 39 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Freshsales](https://saasradar.fr/tools/freshsales) - Freshworks's sales CRM with Freddy AI. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Granola](https://saasradar.fr/tools/granola) - The AI notepad that writes your meeting summaries. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Joiin](https://saasradar.fr/tools/joiin) - Multi-entity financial consolidation, no spreadsheets. `Paid from 28 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [KrispCall](https://saasradar.fr/tools/krispcall) - Cloud phone system for sales and support teams. `Paid from 12 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Littlebird](https://saasradar.fr/tools/littlebird) - The personal AI assistant that follows your work in context. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Omybox](https://saasradar.fr/tools/omybox) - Turn your website into an AI assistant in minutes. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -372,4 +373,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **293** · Categories: **16** · Last updated: **July 29, 2026**
+Total tools: **294** · Categories: **16** · Last updated: **July 30, 2026**

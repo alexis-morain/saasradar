@@ -327,6 +327,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Slab](https://saasradar.fr/tools/slab) - The fast, well-organized team knowledge base. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Softr](https://saasradar.fr/tools/softr) - Build no-code apps and portals from Airtable. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tana](https://saasradar.fr/tools/tana) - The AI-native workspace structured by supertags. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Twist](https://saasradar.fr/tools/twist) - Asynchronous, thread-based team messaging. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [WebCatalog](https://saasradar.fr/tools/webcatalog) - Turn websites into organized desktop apps. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WeTransfer](https://saasradar.fr/tools/wetransfer) - Sending large files with a simple link. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Wispr Flow](https://saasradar.fr/tools/wispr-flow) - The AI voice dictation that writes into any app. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -374,4 +375,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **295** · Categories: **16** · Last updated: **July 31, 2026**
+Total tools: **296** · Categories: **16** · Last updated: **August 1, 2026**

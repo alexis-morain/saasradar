@@ -169,6 +169,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 ## HR & Recruitment
 
+- [Combo](https://saasradar.fr/tools/combo) - Scheduling and payroll prep for frontline teams, restaurants and retail. `Paid from 60 € / mois / établissement` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Eurécia](https://saasradar.fr/tools/eurecia) - Modular French HRIS for SMBs, no payroll engine. `Paid from 4,20 € HT / collaborateur / mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [ADP](https://saasradar.fr/tools/adp) - The long-standing giant of payroll and outsourced HR management. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Gusto](https://saasradar.fr/tools/gusto) - The payroll and HR software for small US businesses. `Paid from Sur abonnement` `⭐ 6/10`.
@@ -247,6 +248,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Survicate](https://saasradar.fr/tools/survicate) - The multichannel survey and customer feedback platform. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [TikTok](https://saasradar.fr/tools/tiktok) - The short-video social network and its advertising platform. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Walaaxy](https://saasradar.fr/tools/walaaxy) - LinkedIn prospecting automation, French publisher. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [WarmupInbox](https://saasradar.fr/tools/warmupinbox) - Email warmup to improve deliverability. `Paid from 19 $/mois par boîte mail` `⭐ 7/10` `🆓 Trial`.
 - [WebinarGeek](https://saasradar.fr/tools/webinargeek) - The European webinar platform, live or automated. `Paid from 49 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WebinarJam](https://saasradar.fr/tools/webinarjam) - Live webinars at scale. `Paid from 39 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WhatsApp](https://saasradar.fr/tools/whatsapp) - Meta's messaging app and its business platform for companies. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -375,4 +377,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **296** · Categories: **16** · Last updated: **August 1, 2026**
+Total tools: **298** · Categories: **16** · Last updated: **August 2, 2026**

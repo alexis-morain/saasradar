@@ -300,6 +300,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Wrike](https://saasradar.fr/tools/wrike) - The project management platform for teams and enterprises. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Zoom](https://saasradar.fr/tools/zoom) - The consumer video calling app turned meeting platform. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Zotero](https://saasradar.fr/tools/zotero) - The open-source, free reference management tool. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
+- [Zulip](https://saasradar.fr/tools/zulip) - The open source team chat organized by topics. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Abby](https://saasradar.fr/tools/abby) - All-in-one management for France's micro-entrepreneurs. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Akiflow](https://saasradar.fr/tools/akiflow) - The task and time manager built around time-blocking. `Paid from 19 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Amadeus](https://saasradar.fr/tools/amadeus) - The travel technology giant and global reservation system. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -378,4 +379,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **299** · Categories: **16** · Last updated: **August 3, 2026**
+Total tools: **300** · Categories: **16** · Last updated: **August 4, 2026**

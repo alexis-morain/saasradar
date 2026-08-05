@@ -219,6 +219,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [DashThis](https://saasradar.fr/tools/dashthis) - Automated marketing dashboards. `Paid from 44 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Dropcontact](https://saasradar.fr/tools/dropcontact) - GDPR-compliant B2B contact enrichment. `Paid from 79 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Elfsight](https://saasradar.fr/tools/elfsight) - Ready-made widgets for any website. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [EmailListVerify](https://saasradar.fr/tools/emaillistverify) - Email list verification to cut bounce rates. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [EverWebinar](https://saasradar.fr/tools/everwebinar) - The automated (evergreen) webinar, by Genesis Digital. `Paid from 99 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Flippa](https://saasradar.fr/tools/flippa) - The marketplace for buying and selling online businesses. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Full Enrich](https://saasradar.fr/tools/full-enrich) - Waterfall B2B contact enrichment. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -379,4 +380,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **300** · Categories: **16** · Last updated: **August 4, 2026**
+Total tools: **301** · Categories: **16** · Last updated: **August 5, 2026**

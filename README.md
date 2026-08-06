@@ -33,6 +33,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [ChatGPT](https://saasradar.fr/tools/chatgpt) - OpenAI's conversational AI assistant. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Claude](https://saasradar.fr/tools/claude) - Anthropic's AI assistant, strong at writing and code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [CodeRabbit](https://saasradar.fr/tools/coderabbit) - AI-powered code review on your pull requests. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Flux](https://saasradar.fr/tools/flux) - The image generation model from Black Forest Labs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Gemini](https://saasradar.fr/tools/gemini) - Google's AI assistant, built into Search and Workspace. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Linear](https://saasradar.fr/tools/linear) - Fast project management for product and tech teams. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Copilot](https://saasradar.fr/tools/copilot) - The AI assistant for Windows and Microsoft 365. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -174,6 +175,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Eurécia](https://saasradar.fr/tools/eurecia) - Modular French HRIS for SMBs, no payroll engine. `Paid from 4,20 € HT / collaborateur / mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [ADP](https://saasradar.fr/tools/adp) - The long-standing giant of payroll and outsourced HR management. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Gusto](https://saasradar.fr/tools/gusto) - The payroll and HR software for small US businesses. `Paid from Sur abonnement` `⭐ 6/10`.
+- [Nibelis](https://saasradar.fr/tools/nibelis) - French HRIS and payroll for SMBs and mid-market, with a dedicated consultant. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 
 ## Marketing & Growth
 
@@ -380,4 +382,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **301** · Categories: **16** · Last updated: **August 5, 2026**
+Total tools: **303** · Categories: **16** · Last updated: **August 6, 2026**

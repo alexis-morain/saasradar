@@ -300,6 +300,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Tiime](https://saasradar.fr/tools/tiime) - Invoicing and business banking for freelancers and small businesses. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Todoist](https://saasradar.fr/tools/todoist) - The simple, powerful task manager, from solo use to teams. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Trello](https://saasradar.fr/tools/trello) - Atlassian's simple, visual Kanban boards. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Whaller](https://saasradar.fr/tools/whaller) - The French enterprise social network with sovereign hosting. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Wrike](https://saasradar.fr/tools/wrike) - The project management platform for teams and enterprises. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Zoom](https://saasradar.fr/tools/zoom) - The consumer video calling app turned meeting platform. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Zotero](https://saasradar.fr/tools/zotero) - The open-source, free reference management tool. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -382,4 +383,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **303** · Categories: **16** · Last updated: **August 6, 2026**
+Total tools: **304** · Categories: **16** · Last updated: **August 7, 2026**

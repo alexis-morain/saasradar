@@ -87,6 +87,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 ## Collaboration & Communication
 
+- [AhaSlides](https://saasradar.fr/tools/ahaslides) - Interactive presentations with live quizzes and polls. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Discord](https://saasradar.fr/tools/discord) - Voice, video, and text chat for communities. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Jira](https://saasradar.fr/tools/jira) - Atlassian's issue tracking and agile project management tool. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 
@@ -164,6 +165,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Henrri](https://saasradar.fr/tools/henrri) - 100% free invoicing and quotes for freelancers. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [PayPal](https://saasradar.fr/tools/paypal) - The online payment service and long-standing digital wallet. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [QuickBooks](https://saasradar.fr/tools/quickbooks) - Intuit's leading accounting software. `Paid from 20 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Tolteck](https://saasradar.fr/tools/tolteck) - Quotes and invoices for building trade professionals, one flat price. `Paid from 19 € HT / mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Escrow.com](https://saasradar.fr/tools/escrow-com) - The secure payment escrow service for transactions. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Polymarket](https://saasradar.fr/tools/polymarket) - The prediction market for real-world events. `Custom pricing` `⭐ 6/10`.
 - [Popay](https://saasradar.fr/tools/popay) - The payroll management software platform. `Custom pricing` `⭐ 6/10`.
@@ -383,4 +385,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **304** · Categories: **16** · Last updated: **August 7, 2026**
+Total tools: **306** · Categories: **16** · Last updated: **August 8, 2026**

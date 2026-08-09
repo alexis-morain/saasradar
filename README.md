@@ -73,6 +73,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [ImmoAI](https://saasradar.fr/tools/immoai) - AI-powered rental investment analysis. `Freemium` `⭐ 6/10` `🆓 Trial`.
 - [Leader Leads](https://saasradar.fr/tools/leader-leads) - The mobile CRM that captures calls, notes, and follow-ups from your phone. `Freemium` `⭐ 6/10` `🆓 Trial`.
 - [Predimail](https://saasradar.fr/tools/predimail) - The AI assistant for managing professional email. `Paid from Dès 99 €/mois (plan Pro)` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Sora](https://saasradar.fr/tools/sora) - OpenAI's AI video generator, now built into ChatGPT. `Freemium` `⭐ 5/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Analytics & Data
 
@@ -385,4 +386,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **306** · Categories: **16** · Last updated: **August 8, 2026**
+Total tools: **307** · Categories: **16** · Last updated: **August 9, 2026**

@@ -298,6 +298,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Perplexity](https://saasradar.fr/tools/perplexity) - The AI answer engine that cites its sources. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Qonto](https://saasradar.fr/tools/qonto) - The business account that also handles pre-accounting. `Paid from 49 €/mois HT` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Rocket.Chat](https://saasradar.fr/tools/rocket-chat) - Open-source, self-hostable messaging built for sovereignty. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Talkspirit](https://saasradar.fr/tools/talkspirit) - The all-in-one French collaboration platform. `Paid from 5 €/utilisateur/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Things](https://saasradar.fr/tools/things) - The elegant, award-winning task manager, exclusively for Apple. `Paid from 9,99 $ (iPhone)` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [TickTick](https://saasradar.fr/tools/ticktick) - The all-in-one task manager with calendar and habit tracking. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Tiime](https://saasradar.fr/tools/tiime) - Invoicing and business banking for freelancers and small businesses. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -358,6 +359,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Pipedrive](https://saasradar.fr/tools/pipedrive) - The sales CRM built around the pipeline. `Paid from 14 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sellsy](https://saasradar.fr/tools/sellsy) - The CRM and invoicing suite for French SMBs. `Paid from 29 €/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Anymail Finder](https://saasradar.fr/tools/anymail-finder) - The B2B email finder that only charges for verified results. `Paid from 26 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [AssoConnect](https://saasradar.fr/tools/assoconnect) - Nonprofit management: accounting, members, website and payment collection. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Bitrix24](https://saasradar.fr/tools/bitrix24) - The all-in-one collaboration and CRM suite. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [CallHippo](https://saasradar.fr/tools/callhippo) - VoIP virtual telephony that deploys fast. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Capsule](https://saasradar.fr/tools/capsule) - The simple, affordable CRM for small and mid sized businesses. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -386,4 +388,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **307** · Categories: **16** · Last updated: **August 9, 2026**
+Total tools: **309** · Categories: **16** · Last updated: **August 10, 2026**

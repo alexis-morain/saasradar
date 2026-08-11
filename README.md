@@ -192,6 +192,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Facebook Ads](https://saasradar.fr/tools/facebook-ads) - Ads delivered on Facebook via the Meta ads manager. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Google Ads](https://saasradar.fr/tools/google-ads) - Google's advertising network, from search to display. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Google Analytics](https://saasradar.fr/tools/google-analytics) - Google's web and app audience measurement tool. `Freemium` `⭐ 8/10`.
+- [Guideflow](https://saasradar.fr/tools/guideflow) - Interactive demos and step-by-step guides for sales and training. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [HubSpot](https://saasradar.fr/tools/hubspot) - The CRM and marketing platform with a free foundation. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Instagram](https://saasradar.fr/tools/instagram) - Meta's visual social network, an essential marketing channel. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Kit](https://saasradar.fr/tools/kit) - Email marketing for creators, formerly ConvertKit. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -388,4 +389,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **309** · Categories: **16** · Last updated: **August 10, 2026**
+Total tools: **310** · Categories: **16** · Last updated: **August 11, 2026**

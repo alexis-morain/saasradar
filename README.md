@@ -164,6 +164,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [PayFit](https://saasradar.fr/tools/payfit) - Payroll and HR software built for French SMEs. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Chargebee](https://saasradar.fr/tools/chargebee) - The subscription management and recurring billing platform. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Henrri](https://saasradar.fr/tools/henrri) - 100% free invoicing and quotes for freelancers. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Obat](https://saasradar.fr/tools/obat) - Quotes, invoices, and job site tracking for the building trade. `Paid from 25 € HT / mois` `⭐ 7/10` `🆓 Trial`.
 - [PayPal](https://saasradar.fr/tools/paypal) - The online payment service and long-standing digital wallet. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [QuickBooks](https://saasradar.fr/tools/quickbooks) - Intuit's leading accounting software. `Paid from 20 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tolteck](https://saasradar.fr/tools/tolteck) - Quotes and invoices for building trade professionals, one flat price. `Paid from 19 € HT / mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -212,6 +213,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Segment](https://saasradar.fr/tools/segment) - The customer data platform (CDP) that centralizes and routes data. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Semrush](https://saasradar.fr/tools/semrush) - The benchmark SEO and marketing suite. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Shopify](https://saasradar.fr/tools/shopify) - The all-in-one e-commerce platform of reference. `Paid from 39 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Veo](https://saasradar.fr/tools/veo) - Google DeepMind's AI video generation model. `Paid from 19,99 $/mois (Google AI Pro)` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Welcome to the Jungle](https://saasradar.fr/tools/welcome-to-the-jungle) - The HR and employer branding suite backed by France's leading jobs media outlet. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [WP Rocket](https://saasradar.fr/tools/wp-rocket) - The WordPress caching plugin, French publisher. `Paid from 59 €/an` `⭐ 8/10` `🇪🇺 GDPR`.
 - [YouTube](https://saasradar.fr/tools/youtube) - Google's video platform, a content channel and advertising network. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -389,4 +391,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **310** · Categories: **16** · Last updated: **August 11, 2026**
+Total tools: **312** · Categories: **16** · Last updated: **August 12, 2026**

@@ -339,6 +339,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Postman](https://saasradar.fr/tools/postman) - The go-to platform for testing APIs. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Readwise](https://saasradar.fr/tools/readwise) - The tool that captures and resurfaces your reading highlights. `Paid from 8 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sabre](https://saasradar.fr/tools/sabre) - The American travel distribution system and technology. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Sage](https://saasradar.fr/tools/sage) - The accounting and management software range for France. `Paid from 19 €/mois HT` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [SeDomicilier](https://saasradar.fr/tools/sedomicilier) - Fully online business domiciliation. `Paid from Dès 13 €/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Shine](https://saasradar.fr/tools/shine) - The French neobank for freelancers and small businesses. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Slab](https://saasradar.fr/tools/slab) - The fast, well-organized team knowledge base. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -393,4 +394,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **314** · Categories: **16** · Last updated: **August 14, 2026**
+Total tools: **315** · Categories: **16** · Last updated: **August 15, 2026**

@@ -364,6 +364,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Le Chat (Mistral)](https://saasradar.fr/tools/le-chat-mistral) - Mistral's sovereign AI assistant, hosted in Europe. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Pipedrive](https://saasradar.fr/tools/pipedrive) - The sales CRM built around the pipeline. `Paid from 14 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sellsy](https://saasradar.fr/tools/sellsy) - The CRM and invoicing suite for French SMBs. `Paid from 29 €/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Signeasy](https://saasradar.fr/tools/signeasy) - Simple electronic signatures, eIDAS compliant. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Anymail Finder](https://saasradar.fr/tools/anymail-finder) - The B2B email finder that only charges for verified results. `Paid from 26 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [AssoConnect](https://saasradar.fr/tools/assoconnect) - Nonprofit management: accounting, members, website and payment collection. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Bitrix24](https://saasradar.fr/tools/bitrix24) - The all-in-one collaboration and CRM suite. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -394,4 +395,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **315** · Categories: **16** · Last updated: **August 15, 2026**
+Total tools: **316** · Categories: **16** · Last updated: **August 16, 2026**

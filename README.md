@@ -372,6 +372,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Capsule](https://saasradar.fr/tools/capsule) - The simple, affordable CRM for small and mid sized businesses. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [CloudTalk](https://saasradar.fr/tools/cloudtalk) - The cloud call center rich in CRM integrations. `Paid from 21 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Copper](https://saasradar.fr/tools/copper) - The CRM that lives inside Google Workspace. `Paid from 23 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [EBP](https://saasradar.fr/tools/ebp) - French management software for small businesses, SMEs, and tradespeople. `Paid from 12,50 €/mois HT` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Folk](https://saasradar.fr/tools/folk) - The light, collaborative CRM, from a French company. `Paid from 24 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Foxit](https://saasradar.fr/tools/foxit) - The full-featured PDF editor, an affordable Acrobat alternative. `Paid from 10,99 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [OnePageCRM](https://saasradar.fr/tools/onepagecrm) - The action-oriented sales CRM, simple and fast. `Paid from 13,50 $/utilisateur/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -395,4 +396,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **316** · Categories: **16** · Last updated: **August 16, 2026**
+Total tools: **317** · Categories: **16** · Last updated: **August 17, 2026**

@@ -33,6 +33,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [ChatGPT](https://saasradar.fr/tools/chatgpt) - OpenAI's conversational AI assistant. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Claude](https://saasradar.fr/tools/claude) - Anthropic's AI assistant, strong at writing and code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [CodeRabbit](https://saasradar.fr/tools/coderabbit) - AI-powered code review on your pull requests. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [ElevenLabs](https://saasradar.fr/tools/elevenlabs) - AI voice synthesis, voice cloning, and dubbing. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Flux](https://saasradar.fr/tools/flux) - The image generation model from Black Forest Labs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Gemini](https://saasradar.fr/tools/gemini) - Google's AI assistant, built into Search and Workspace. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Linear](https://saasradar.fr/tools/linear) - Fast project management for product and tech teams. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -169,6 +170,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [PayPal](https://saasradar.fr/tools/paypal) - The online payment service and long-standing digital wallet. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [QuickBooks](https://saasradar.fr/tools/quickbooks) - Intuit's leading accounting software. `Paid from 20 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tolteck](https://saasradar.fr/tools/tolteck) - Quotes and invoices for building trade professionals, one flat price. `Paid from 19 € HT / mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Agicap](https://saasradar.fr/tools/agicap) - Cash flow management for mid-market companies, quote-only pricing. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Escrow.com](https://saasradar.fr/tools/escrow-com) - The secure payment escrow service for transactions. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Polymarket](https://saasradar.fr/tools/polymarket) - The prediction market for real-world events. `Custom pricing` `⭐ 6/10`.
 - [Popay](https://saasradar.fr/tools/popay) - The payroll management software platform. `Custom pricing` `⭐ 6/10`.
@@ -396,4 +398,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **317** · Categories: **16** · Last updated: **August 17, 2026**
+Total tools: **319** · Categories: **16** · Last updated: **August 18, 2026**

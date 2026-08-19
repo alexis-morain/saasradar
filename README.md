@@ -86,6 +86,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 ## Automation & No-code
 
+- [Audiorista](https://saasradar.fr/tools/audiorista) - The no-code platform for building monetized branded content apps. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [IFTTT](https://saasradar.fr/tools/ifttt) - The no-code automation tool linking your apps and connected devices. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Collaboration & Communication
@@ -398,4 +399,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **319** · Categories: **16** · Last updated: **August 18, 2026**
+Total tools: **320** · Categories: **16** · Last updated: **August 19, 2026**

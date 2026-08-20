@@ -286,6 +286,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Basecamp](https://saasradar.fr/tools/basecamp) - Simple, no-clutter project management, by 37signals. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Cal.com](https://saasradar.fr/tools/cal-com) - Open source appointment scheduling, an alternative to Calendly. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Calendly](https://saasradar.fr/tools/calendly) - The automated scheduling tool that removes back-and-forth. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Cegid](https://saasradar.fr/tools/cegid) - The French management range: accounting, payroll, HR, finance, and retail. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [ClickUp](https://saasradar.fr/tools/clickup) - All-in-one, highly customizable project management. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Docker](https://saasradar.fr/tools/docker) - The standard for containerizing applications. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Dropbox](https://saasradar.fr/tools/dropbox) - Cloud file storage and sharing. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -324,6 +325,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Buddy Punch](https://saasradar.fr/tools/buddy-punch) - The online time clock with GPS and time tracking. `Paid from 4,49 $/utilisateur/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Capacities](https://saasradar.fr/tools/capacities) - The visual workspace that organizes your ideas as objects. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Cerri](https://saasradar.fr/tools/cerri) - The project and portfolio management platform for the enterprise. `Paid from 40 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Clockify](https://saasradar.fr/tools/clockify) - Cross-platform time tracking, free plan now capped. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Coda](https://saasradar.fr/tools/coda) - The all-in-one doc that blends text, spreadsheets, and apps. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Comp AI](https://saasradar.fr/tools/comp-ai) - SOC 2 and ISO 27001 compliance automated, open source. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Confluence](https://saasradar.fr/tools/confluence) - Atlassian's team documentation workspace and wiki. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -399,4 +401,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **320** · Categories: **16** · Last updated: **August 19, 2026**
+Total tools: **322** · Categories: **16** · Last updated: **August 20, 2026**

@@ -42,6 +42,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Midjourney](https://saasradar.fr/tools/midjourney) - The reference AI image generator for creatives. `Paid from 10 $/mois` `⭐ 8/10`.
 - [Monday CRM](https://saasradar.fr/tools/monday-crm) - monday.com's visual, customizable CRM. `Paid from 12 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Monday.com](https://saasradar.fr/tools/monday) - The visual Work OS for building your own tools. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Murf](https://saasradar.fr/tools/murf) - AI voiceovers for videos, e-learning, and podcasts. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Runway](https://saasradar.fr/tools/runway) - The reference platform for AI video generation and editing. `Freemium` `⭐ 8/10`.
 - [Salesforce](https://saasradar.fr/tools/salesforce) - The leading enterprise CRM platform. `Paid from 25 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Slack](https://saasradar.fr/tools/slack) - Team messaging organized into channels. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -401,4 +402,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **322** · Categories: **16** · Last updated: **August 20, 2026**
+Total tools: **323** · Categories: **16** · Last updated: **August 21, 2026**

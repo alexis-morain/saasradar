@@ -327,6 +327,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Capacities](https://saasradar.fr/tools/capacities) - The visual workspace that organizes your ideas as objects. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Cerri](https://saasradar.fr/tools/cerri) - The project and portfolio management platform for the enterprise. `Paid from 40 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Clockify](https://saasradar.fr/tools/clockify) - Cross-platform time tracking, free plan now capped. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Cloudways](https://saasradar.fr/tools/cloudways) - Managed cloud hosting for websites and applications. `Paid from 11 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Coda](https://saasradar.fr/tools/coda) - The all-in-one doc that blends text, spreadsheets, and apps. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Comp AI](https://saasradar.fr/tools/comp-ai) - SOC 2 and ISO 27001 compliance automated, open source. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Confluence](https://saasradar.fr/tools/confluence) - Atlassian's team documentation workspace and wiki. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -402,4 +403,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **323** · Categories: **16** · Last updated: **August 21, 2026**
+Total tools: **324** · Categories: **16** · Last updated: **August 22, 2026**

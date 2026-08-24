@@ -341,6 +341,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Mendeley](https://saasradar.fr/tools/mendeley) - Elsevier's reference manager and academic network. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Motion](https://saasradar.fr/tools/motion) - The calendar and task manager powered by AI. `Paid from 19 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [MRPeasy](https://saasradar.fr/tools/mrpeasy) - The MRP and ERP software for small manufacturers. `Paid from 49 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [NameCheap](https://saasradar.fr/tools/namecheap) - Domain registration and web hosting at low prices. `Paid from 1,98 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [NocoDB](https://saasradar.fr/tools/nocodb) - The open-source Airtable alternative, self-hostable. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Outline](https://saasradar.fr/tools/outline) - The fast, open source team wiki. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pipedream](https://saasradar.fr/tools/pipedream) - Developer-focused automation, between code and no-code. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -404,4 +405,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **325** · Categories: **16** · Last updated: **August 23, 2026**
+Total tools: **326** · Categories: **16** · Last updated: **August 24, 2026**

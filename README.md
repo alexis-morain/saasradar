@@ -75,7 +75,6 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [DALL-E](https://saasradar.fr/tools/dall-e) - OpenAI's image generator, now at end of life. `Paid from 20 $/mois (via ChatGPT Plus)` `⭐ 6/10` `🇪🇺 GDPR`.
 - [ImmoAI](https://saasradar.fr/tools/immoai) - AI-powered rental investment analysis. `Freemium` `⭐ 6/10` `🆓 Trial`.
 - [Leader Leads](https://saasradar.fr/tools/leader-leads) - The mobile CRM that captures calls, notes, and follow-ups from your phone. `Freemium` `⭐ 6/10` `🆓 Trial`.
-- [Predimail](https://saasradar.fr/tools/predimail) - The AI assistant for managing professional email. `Paid from Dès 99 €/mois (plan Pro)` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sora](https://saasradar.fr/tools/sora) - OpenAI's AI video generator, now built into ChatGPT. `Freemium` `⭐ 5/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Analytics & Data
@@ -154,6 +153,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [PlanetHoster](https://saasradar.fr/tools/planethoster) - The French-Canadian web host with its own N0C panel. `Paid from 5,49 €/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [React Email](https://saasradar.fr/tools/react-email) - The open-source library to build emails with React. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [UptimeRobot](https://saasradar.fr/tools/uptimerobot) - Uptime monitoring for your sites and APIs. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Domain.com](https://saasradar.fr/tools/domain-com) - US registrar and shared hosting provider, low introductory pricing and pricier renewals. `Paid from 2,99 $/mois` `⭐ 6/10`.
 
 ## E-commerce & Online Sales
 
@@ -229,6 +229,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Amazon Marketing Cloud](https://saasradar.fr/tools/amazon-marketing-cloud) - The secure, privacy-safe analytics warehouse for Amazon campaigns. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Amazon SES](https://saasradar.fr/tools/amazon-ses) - Amazon Web Services' low-cost email sending service. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [BetterPic](https://saasradar.fr/tools/betterpic) - Professional AI-generated profile photos in 4K. `Paid from 35 $` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Cap](https://saasradar.fr/tools/cap) - Open source screen recording, an alternative to Loom. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [DashThis](https://saasradar.fr/tools/dashthis) - Automated marketing dashboards. `Paid from 44 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Dropcontact](https://saasradar.fr/tools/dropcontact) - GDPR-compliant B2B contact enrichment. `Paid from 79 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Elfsight](https://saasradar.fr/tools/elfsight) - Ready-made widgets for any website. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -405,4 +406,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **326** · Categories: **16** · Last updated: **August 24, 2026**
+Total tools: **327** · Categories: **16** · Last updated: **August 25, 2026**

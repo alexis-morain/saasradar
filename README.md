@@ -43,6 +43,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Monday CRM](https://saasradar.fr/tools/monday-crm) - monday.com's visual, customizable CRM. `Paid from 12 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Monday.com](https://saasradar.fr/tools/monday) - The visual Work OS for building your own tools. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Murf](https://saasradar.fr/tools/murf) - AI voiceovers for videos, e-learning, and podcasts. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
+- [Notion AI](https://saasradar.fr/tools/notion-ai) - Notion's AI, now included in Business plans. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Runway](https://saasradar.fr/tools/runway) - The reference platform for AI video generation and editing. `Freemium` `⭐ 8/10`.
 - [Salesforce](https://saasradar.fr/tools/salesforce) - The leading enterprise CRM platform. `Paid from 25 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Slack](https://saasradar.fr/tools/slack) - Team messaging organized into channels. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -406,4 +407,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **327** · Categories: **16** · Last updated: **August 25, 2026**
+Total tools: **328** · Categories: **16** · Last updated: **August 26, 2026**

@@ -4,11 +4,11 @@ Thanks for your interest in this list!
 
 ## Adding a tool
 
-This list is automatically generated from [SaaS Radar](https://saasradar.fr) — a curated directory of SaaS tools, independently reviewed and scored.
+This list is automatically generated from [SaaS Radar](https://www.saasradar.fr) — a curated directory of SaaS tools, independently reviewed and scored.
 
 **To add a tool:**
 
-1. Visit [saasradar.fr/submit](https://saasradar.fr/submit)
+1. Visit [saasradar.fr/en/submit](https://www.saasradar.fr/en/submit)
 2. Fill out the submission form
 3. Once reviewed and approved, the tool will automatically appear in this list
 
@@ -16,7 +16,7 @@ Direct pull requests modifying `README.md` will not be merged — the file is re
 
 ## Reporting issues
 
-If you spot a broken link, an incorrect score, or outdated information, please [open an issue](https://github.com/alexis-morain/saasradar/issues/new) or submit a correction on [SaaS Radar](https://saasradar.fr).
+If you spot a broken link, an incorrect score, or outdated information, please [open an issue](https://github.com/alexis-morain/saasradar/issues/new) or submit a correction on [SaaS Radar](https://www.saasradar.fr).
 
 ## Questions?
 

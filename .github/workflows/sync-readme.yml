@@ -25,7 +25,60 @@ jobs:
           # Sanity check: must be non-empty and contain the expected header
           test -s README.new.md
           grep -q "^# Awesome SaaS Tools" README.new.md
-          mv README.new.md README.md
+
+      # The header check above passes even when every link in the file is dead:
+      # that is how a broken URL pattern (/tools/<slug>, a path the site never
+      # served) shipped to the public list and stayed there. Resolve the links
+      # for real before publishing them.
+      - name: Verify every link resolves
+        run: |
+          grep -oE 'https://[a-z0-9.-]*saasradar\.fr[^)[:space:]]*' README.new.md \
+            | sed 's/[.,]$//' | sort -u > links.txt
+
+          count=$(wc -l < links.txt)
+          echo "$count unique saasradar.fr links to check"
+          # A README with the right header and no links is a failure too.
+          if [ "$count" -lt 50 ]; then
+            echo "::error::Only $count links found, expected the full directory. Refusing to publish."
+            exit 1
+          fi
+
+          # -L so an intended redirect (apex -> www, /en/submit -> login) is
+          # followed to its real destination; only the final status matters.
+          check() {
+            curl -sS -L -o /dev/null -w '%{http_code}' \
+              --retry 2 --retry-delay 2 --max-time 20 \
+              -A 'saasradar-readme-sync' "$1" 2>/dev/null || echo "000"
+          }
+          export -f check
+
+          xargs -P 8 -I{} bash -c 'echo "$(check "{}") {}"' < links.txt > results.txt
+
+          echo "--- status breakdown ---"
+          awk '{print $1}' results.txt | sort | uniq -c
+
+          # Re-test failures once on their own: a single 5xx is usually the
+          # database waking up, not a dead page.
+          grep -v '^200 ' results.txt | awk '{print $2}' > suspects.txt || true
+          if [ -s suspects.txt ]; then
+            echo "--- retrying $(wc -l < suspects.txt) suspect link(s) ---"
+            : > broken.txt
+            while read -r url; do
+              status=$(check "$url")
+              [ "$status" = "200" ] || echo "$status $url" >> broken.txt
+            done < suspects.txt
+
+            if [ -s broken.txt ]; then
+              echo "::error::$(wc -l < broken.txt) link(s) do not resolve. README not published."
+              cat broken.txt
+              exit 1
+            fi
+          fi
+
+          echo "All $count links resolve."
+
+      - name: Publish
+        run: mv README.new.md README.md
 
       - name: Commit if changed
         run: |
@@ -36,8 +89,8 @@ jobs:
             exit 0
           fi
           # Read fresh stats from the new README (tolerant: never abort the sync)
-          tools=$(grep -oE '^- \*\*Total tools:\*\* [0-9]+' README.md | grep -oE '[0-9]+' | head -1 || true)
-          cats=$(grep -oE '^- \*\*Categories:\*\* [0-9]+' README.md | grep -oE '[0-9]+' | head -1 || true)
+          tools=$(grep -oE 'Total tools: \*\*[0-9]+\*\*' README.md | grep -oE '[0-9]+' | head -1 || true)
+          cats=$(grep -oE 'Categories: \*\*[0-9]+\*\*' README.md | grep -oE '[0-9]+' | head -1 || true)
           tools=${tools:-?}
           cats=${cats:-?}
           git add README.md

@@ -53,6 +53,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Amplemarket](https://saasradar.fr/tools/amplemarket) - The all-in-one B2B sales prospecting platform. `Paid from 600 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Anara](https://saasradar.fr/tools/anara) - The AI research assistant that reads your PDFs and cites its sources. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [AppFlowy](https://saasradar.fr/tools/appflowy) - The open source alternative to Notion, with local AI. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Attio](https://saasradar.fr/tools/attio) - The next-generation CRM, flexible and AI-driven. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Bold Desk](https://saasradar.fr/tools/bold-desk) - Syncfusion's customer support software. `Paid from 99 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Buzz.ai](https://saasradar.fr/tools/buzz-ai) - AI powered multichannel sales engagement. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Chatbase](https://saasradar.fr/tools/chatbase) - The platform for building AI agents and chatbots on your own data. `Paid from 32 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -416,4 +417,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://saasradar.fr/submit) and i
 
 ## Stats
 
-Total tools: **337** · Categories: **16** · Last updated: **August 27, 2026**
+Total tools: **338** · Categories: **16** · Last updated: **August 28, 2026**

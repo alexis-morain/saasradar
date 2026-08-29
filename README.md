@@ -316,6 +316,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Miro](https://www.saasradar.fr/en/miro) - The online collaborative whiteboard. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [n8n](https://www.saasradar.fr/en/n8n) - Open source, self-hostable workflow automation. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Notion](https://www.saasradar.fr/en/notion) - Docs, wikis, and databases in one workspace. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Otter.ai](https://www.saasradar.fr/en/otter) - AI transcription and meeting notes. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Pennylane](https://www.saasradar.fr/en/pennylane) - The accounting and financial management platform for SMBs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Perplexity](https://www.saasradar.fr/en/perplexity) - The AI answer engine that cites its sources. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Qonto](https://www.saasradar.fr/en/qonto) - The business account that also handles pre-accounting. `Paid from 49 €/mois HT` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -417,4 +418,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **338** · Categories: **16** · Last updated: **August 28, 2026**
+Total tools: **339** · Categories: **16** · Last updated: **August 29, 2026**

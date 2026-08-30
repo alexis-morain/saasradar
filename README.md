@@ -301,6 +301,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Calendly](https://www.saasradar.fr/en/calendly) - The automated scheduling tool that removes back-and-forth. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Cegid](https://www.saasradar.fr/en/cegid) - The French management range: accounting, payroll, HR, finance, and retail. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [ClickUp](https://www.saasradar.fr/en/clickup) - All-in-one, highly customizable project management. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Deel](https://www.saasradar.fr/en/deel) - International payroll and hiring (EOR) in one place. `Paid from 49 $/contractor/mois` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Docker](https://www.saasradar.fr/en/docker) - The standard for containerizing applications. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Dropbox](https://www.saasradar.fr/en/dropbox) - Cloud file storage and sharing. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Figma](https://www.saasradar.fr/en/figma) - Design interfaces together, in real time. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -418,4 +419,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **339** · Categories: **16** · Last updated: **August 29, 2026**
+Total tools: **340** · Categories: **16** · Last updated: **August 30, 2026**

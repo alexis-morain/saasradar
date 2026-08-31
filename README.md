@@ -32,6 +32,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Apollo.io](https://www.saasradar.fr/en/apollo-io) - The all-in-one sales prospecting platform. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [ChatGPT](https://www.saasradar.fr/en/chatgpt) - OpenAI's conversational AI assistant. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Claude](https://www.saasradar.fr/en/claude) - Anthropic's AI assistant, strong at writing and code. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
+- [Close](https://www.saasradar.fr/en/close) - The sales CRM built for teams that call. `Paid from 9 $/utilisateur/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [CodeRabbit](https://www.saasradar.fr/en/coderabbit) - AI-powered code review on your pull requests. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [ElevenLabs](https://www.saasradar.fr/en/elevenlabs) - AI voice synthesis, voice cloning, and dubbing. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Flux](https://www.saasradar.fr/en/flux) - The image generation model from Black Forest Labs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -419,4 +420,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **340** · Categories: **16** · Last updated: **August 30, 2026**
+Total tools: **341** · Categories: **16** · Last updated: **August 31, 2026**

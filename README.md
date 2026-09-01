@@ -67,6 +67,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Littlebird](https://www.saasradar.fr/en/littlebird) - The personal AI assistant that follows your work in context. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Omybox](https://www.saasradar.fr/en/omybox) - Turn your website into an AI assistant in minutes. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pika](https://www.saasradar.fr/en/pika) - Simple, accessible AI generation of short videos. `Freemium` `⭐ 7/10`.
+- [Read AI](https://www.saasradar.fr/en/read-ai) - AI-powered meeting transcription and summaries. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Relevance AI](https://www.saasradar.fr/en/relevance-ai) - No-code AI agent teams to automate your processes. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Search Atlas](https://www.saasradar.fr/en/search-atlas) - The all-in-one, AI-driven SEO suite (OTTO SEO). `Paid from 99 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Slite](https://www.saasradar.fr/en/slite) - The AI-powered team knowledge base, from a French company. `Paid from 10 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -420,4 +421,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **341** · Categories: **16** · Last updated: **August 31, 2026**
+Total tools: **342** · Categories: **16** · Last updated: **September 1, 2026**

@@ -65,6 +65,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Joiin](https://www.saasradar.fr/en/joiin) - Multi-entity financial consolidation, no spreadsheets. `Paid from 28 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [KrispCall](https://www.saasradar.fr/en/krispcall) - Cloud phone system for sales and support teams. `Paid from 12 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Littlebird](https://www.saasradar.fr/en/littlebird) - The personal AI assistant that follows your work in context. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Meet by IAxion](https://www.saasradar.fr/en/meet-by-iaxion) - AI-transcribed and corrected meetings. `Paid` `⭐ 7/10`.
 - [Omybox](https://www.saasradar.fr/en/omybox) - Turn your website into an AI assistant in minutes. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pika](https://www.saasradar.fr/en/pika) - Simple, accessible AI generation of short videos. `Freemium` `⭐ 7/10`.
 - [Read AI](https://www.saasradar.fr/en/read-ai) - AI-powered meeting transcription and summaries. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -421,4 +422,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **342** · Categories: **16** · Last updated: **September 1, 2026**
+Total tools: **343** · Categories: **16** · Last updated: **September 2, 2026**

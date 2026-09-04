@@ -136,6 +136,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Firebase](https://www.saasradar.fr/en/firebase) - Google's app development platform. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [GitLab](https://www.saasradar.fr/en/gitlab) - The all-in-one DevOps platform built around the Git repository. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Google Cloud](https://www.saasradar.fr/en/google-cloud) - Google's cloud platform, from compute to AI and data. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Jetpack](https://www.saasradar.fr/en/jetpack) - The security, backup, and performance suite for WordPress. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Kubernetes](https://www.saasradar.fr/en/kubernetes) - The standard container orchestrator for the cloud. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Next.js](https://www.saasradar.fr/en/nextjs) - The React framework for production, by Vercel. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Node.js](https://www.saasradar.fr/en/nodejs) - The open source JavaScript runtime for the server. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -423,4 +424,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **344** · Categories: **16** · Last updated: **September 3, 2026**
+Total tools: **345** · Categories: **16** · Last updated: **September 4, 2026**

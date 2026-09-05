@@ -352,6 +352,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Confluence](https://www.saasradar.fr/en/confluence) - Atlassian's team documentation workspace and wiki. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Freebe](https://www.saasradar.fr/en/freebe) - All-in-one management for French freelancers. `Paid from 12,50 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Glide](https://www.saasradar.fr/en/glide) - The no-code app builder powered by your data. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Hubstaff](https://www.saasradar.fr/en/hubstaff) - Time and productivity tracking for distributed teams. `Paid from 4,99 $/utilisateur/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Keobiz](https://www.saasradar.fr/en/keobiz) - The online chartered accounting firm for business owners and property investors. `Paid from Dès 49 €/mois HT` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Les Tricolores](https://www.saasradar.fr/en/les-tricolores) - French-style business address and mail handling. `Paid from 14,90 €/mois HT` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Lindy](https://www.saasradar.fr/en/lindy) - No-code AI agents that execute your tasks. `Paid from 49,99 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -424,4 +425,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **345** · Categories: **16** · Last updated: **September 4, 2026**
+Total tools: **346** · Categories: **16** · Last updated: **September 5, 2026**

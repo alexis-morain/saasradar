@@ -157,6 +157,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Helm](https://www.saasradar.fr/en/helm) - The package manager for Kubernetes. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Jenkins](https://www.saasradar.fr/en/jenkins) - The long-standing open-source automation and CI/CD server. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [PlanetHoster](https://www.saasradar.fr/en/planethoster) - The French-Canadian web host with its own N0C panel. `Paid from 5,49 €/mois` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Pressable](https://www.saasradar.fr/en/pressable) - Automattic's managed WordPress hosting. `Paid from 25 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [React Email](https://www.saasradar.fr/en/react-email) - The open-source library to build emails with React. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [UptimeRobot](https://www.saasradar.fr/en/uptimerobot) - Uptime monitoring for your sites and APIs. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Bluehost](https://www.saasradar.fr/en/bluehost) - The WordPress hosting recommended for getting started. `Paid from 3,99 $/mois` `⭐ 6/10` `🇪🇺 GDPR`.
@@ -425,4 +426,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **346** · Categories: **16** · Last updated: **September 5, 2026**
+Total tools: **347** · Categories: **16** · Last updated: **September 6, 2026**

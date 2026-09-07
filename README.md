@@ -240,6 +240,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Amazon Marketing Cloud](https://www.saasradar.fr/en/amazon-marketing-cloud) - The secure, privacy-safe analytics warehouse for Amazon campaigns. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Amazon SES](https://www.saasradar.fr/en/amazon-ses) - Amazon Web Services' low-cost email sending service. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [BetterPic](https://www.saasradar.fr/en/betterpic) - Professional AI-generated profile photos in 4K. `Paid from 35 $` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Campaign Monitor](https://www.saasradar.fr/en/campaign-monitor) - Polished email marketing for brands and agencies. `Paid from 13 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Cap](https://www.saasradar.fr/en/cap) - Open source screen recording, an alternative to Loom. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [DashThis](https://www.saasradar.fr/en/dashthis) - Automated marketing dashboards. `Paid from 44 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Dropcontact](https://www.saasradar.fr/en/dropcontact) - GDPR-compliant B2B contact enrichment. `Paid from 79 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -426,4 +427,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **347** · Categories: **16** · Last updated: **September 6, 2026**
+Total tools: **348** · Categories: **16** · Last updated: **September 7, 2026**

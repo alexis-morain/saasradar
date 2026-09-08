@@ -231,6 +231,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Shopify](https://www.saasradar.fr/en/shopify) - The all-in-one e-commerce platform of reference. `Paid from 39 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Veo](https://www.saasradar.fr/en/veo) - Google DeepMind's AI video generation model. `Paid from 19,99 $/mois (Google AI Pro)` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Welcome to the Jungle](https://www.saasradar.fr/en/welcome-to-the-jungle) - The HR and employer branding suite backed by France's leading jobs media outlet. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
+- [WooCommerce](https://www.saasradar.fr/en/woocommerce) - The open source e-commerce plugin for WordPress. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
 - [WP Rocket](https://www.saasradar.fr/en/wp-rocket) - The WordPress caching plugin, French publisher. `Paid from 59 €/an` `⭐ 8/10` `🇪🇺 GDPR`.
 - [YouTube](https://www.saasradar.fr/en/youtube) - Google's video platform, a content channel and advertising network. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Zoho CRM](https://www.saasradar.fr/en/zoho-crm) - The complete, affordable CRM from the Zoho suite. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -427,4 +428,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **348** · Categories: **16** · Last updated: **September 7, 2026**
+Total tools: **349** · Categories: **16** · Last updated: **September 8, 2026**

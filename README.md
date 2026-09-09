@@ -130,6 +130,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [MDN Web Docs](https://www.saasradar.fr/en/mdn-web-docs) - The web's technical reference, by Mozilla. `Free` `⭐ 9/10` `🇪🇺 GDPR`.
 - [Python](https://www.saasradar.fr/en/python) - The versatile, readable programming language, king of data and AI. `Free` `⭐ 9/10` `🇪🇺 GDPR`.
 - [TypeScript](https://www.saasradar.fr/en/typescript) - The typed superset of JavaScript created by Microsoft. `Free` `⭐ 9/10` `🇪🇺 GDPR`.
+- [Akismet](https://www.saasradar.fr/en/akismet) - The go-to anti-spam protection for WordPress. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Azure](https://www.saasradar.fr/en/azure) - Microsoft's cloud for infrastructure and services. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Bubble](https://www.saasradar.fr/en/bubble) - The no-code platform for building complete web applications. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Cargo](https://www.saasradar.fr/en/cargo) - The official package manager and build tool of the Rust language. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -428,4 +429,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **349** · Categories: **16** · Last updated: **September 8, 2026**
+Total tools: **350** · Categories: **16** · Last updated: **September 9, 2026**

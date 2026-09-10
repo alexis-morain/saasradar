@@ -169,6 +169,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [BigCommerce](https://www.saasradar.fr/en/bigcommerce) - The SaaS e-commerce platform for growing merchants. `Paid from 39 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Magento](https://www.saasradar.fr/en/magento) - Adobe's e-commerce platform, from open source to Adobe Commerce. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [PrestaShop](https://www.saasradar.fr/en/prestashop) - The French open-source e-commerce solution. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Sensei](https://www.saasradar.fr/en/sensei) - The WordPress LMS for building and selling courses. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Squarespace](https://www.saasradar.fr/en/squarespace) - The all-in-one design-focused website builder. `Paid from 16 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Finance & Accounting
@@ -429,4 +430,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **350** · Categories: **16** · Last updated: **September 9, 2026**
+Total tools: **351** · Categories: **16** · Last updated: **September 10, 2026**

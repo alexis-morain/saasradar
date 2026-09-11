@@ -382,6 +382,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [WebCatalog](https://www.saasradar.fr/en/webcatalog) - Turn websites into organized desktop apps. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WeTransfer](https://www.saasradar.fr/en/wetransfer) - Sending large files with a simple link. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Wispr Flow](https://www.saasradar.fr/en/wispr-flow) - The AI voice dictation that writes into any app. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [WP Job Manager](https://www.saasradar.fr/en/wp-job-manager) - The WordPress plugin for building a job listings site. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [ChatGPT Agent (ex-Operator)](https://www.saasradar.fr/en/openai-operator) - OpenAI's browser agent, now folded into ChatGPT Agent. `Paid from 20 $/mois (via ChatGPT Plus)` `⭐ 6/10` `🇪🇺 GDPR`.
 - [PDWare](https://www.saasradar.fr/en/pdware) - Enterprise resource and project portfolio management. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Selki](https://www.saasradar.fr/en/selki) - Simple invoicing and quotes for French freelancers. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
@@ -430,4 +431,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **351** · Categories: **16** · Last updated: **September 10, 2026**
+Total tools: **352** · Categories: **16** · Last updated: **September 11, 2026**

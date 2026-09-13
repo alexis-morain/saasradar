@@ -412,6 +412,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Folk](https://www.saasradar.fr/en/folk) - The light, collaborative CRM, from a French company. `Paid from 24 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Foxit](https://www.saasradar.fr/en/foxit) - The full-featured PDF editor, an affordable Acrobat alternative. `Paid from 10,99 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [OnePageCRM](https://www.saasradar.fr/en/onepagecrm) - The action-oriented sales CRM, simple and fast. `Paid from 13,50 $/utilisateur/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Team Pulse](https://www.saasradar.fr/en/team-pulse) - The project and CRM workspace, publisher hard to verify. `Freemium` `⭐ 5/10`.
 
 ## Security & Compliance
 
@@ -432,4 +433,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **353** · Categories: **16** · Last updated: **September 12, 2026**
+Total tools: **354** · Categories: **16** · Last updated: **September 13, 2026**

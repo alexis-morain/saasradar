@@ -299,6 +299,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Salesflow](https://www.saasradar.fr/en/salesflow) - LinkedIn and email outreach automation for teams. `Paid from 79 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [TapStitch](https://www.saasradar.fr/en/tapstitch) - Premium print-on-demand custom apparel, with no inventory. `Free` `⭐ 6/10`.
 - [Web CEO](https://www.saasradar.fr/en/web-ceo) - The all-in-one SEO suite for agencies and small businesses. `Paid from 37 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Page Pulse](https://www.saasradar.fr/en/page-pulse) - Simplified web analytics, publisher hard to verify. `Freemium` `⭐ 5/10`.
 
 ## Productivity & Organization
 
@@ -433,4 +434,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **354** · Categories: **16** · Last updated: **September 13, 2026**
+Total tools: **355** · Categories: **16** · Last updated: **September 14, 2026**

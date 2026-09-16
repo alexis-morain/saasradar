@@ -50,6 +50,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Slack](https://www.saasradar.fr/en/slack) - Team messaging organized into channels. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Stable Diffusion](https://www.saasradar.fr/en/stable-diffusion) - The open source image generation model from Stability AI. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Zapier](https://www.saasradar.fr/en/zapier) - No-code automation across more than 7,000 apps. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [AltText.ai](https://www.saasradar.fr/en/alttext-ai) - AI-generated alt text for your images. `Paid from 5 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Amen](https://www.saasradar.fr/en/amen) - The French web host and domain registrar. `Paid from 2,65 €/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Amplemarket](https://www.saasradar.fr/en/amplemarket) - The all-in-one B2B sales prospecting platform. `Paid from 600 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Anara](https://www.saasradar.fr/en/anara) - The AI research assistant that reads your PDFs and cites its sources. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -435,4 +436,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **356** · Categories: **16** · Last updated: **September 15, 2026**
+Total tools: **357** · Categories: **16** · Last updated: **September 16, 2026**

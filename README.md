@@ -275,6 +275,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Reditus](https://www.saasradar.fr/en/reditus) - The affiliate and referral platform for B2B SaaS. `Paid from 99 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [SeLoger](https://www.saasradar.fr/en/seloger) - France's reference real estate portal for buying and renting. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [SendGrid](https://www.saasradar.fr/en/sendgrid) - Sending transactional and marketing emails at scale. `Paid from 19,95 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [SEOSpace](https://www.saasradar.fr/en/seospace) - The all-in-one SEO plugin built for Squarespace. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [SERPChecker](https://www.saasradar.fr/en/serpchecker) - Google search results page analysis, by Mangools. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [SERPWatcher](https://www.saasradar.fr/en/serpwatcher) - Clear position tracking, by Mangools. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Signitic](https://www.saasradar.fr/en/signitic) - Centralized email signature management, French publisher. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -436,4 +437,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **357** · Categories: **16** · Last updated: **September 16, 2026**
+Total tools: **358** · Categories: **16** · Last updated: **September 17, 2026**

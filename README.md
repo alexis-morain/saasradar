@@ -37,6 +37,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [ElevenLabs](https://www.saasradar.fr/en/elevenlabs) - AI voice synthesis, voice cloning, and dubbing. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Flux](https://www.saasradar.fr/en/flux) - The image generation model from Black Forest Labs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Gemini](https://www.saasradar.fr/en/gemini) - Google's AI assistant, built into Search and Workspace. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
+- [involve.me](https://www.saasradar.fr/en/involve-me) - Interactive forms, quizzes, and funnels for capturing leads. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Linear](https://www.saasradar.fr/en/linear) - Fast project management for product and tech teams. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Copilot](https://www.saasradar.fr/en/copilot) - The AI assistant for Windows and Microsoft 365. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Dynamics 365 Sales](https://www.saasradar.fr/en/microsoft-dynamics) - The enterprise CRM at the heart of the Microsoft ecosystem. `Paid from 65 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -438,4 +439,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **359** · Categories: **16** · Last updated: **September 18, 2026**
+Total tools: **360** · Categories: **16** · Last updated: **September 19, 2026**

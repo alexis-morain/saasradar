@@ -404,6 +404,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 - [Axonaut](https://www.saasradar.fr/en/axonaut) - The all-in-one management software for French small businesses. `Paid from 97 €/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Le Chat (Mistral)](https://www.saasradar.fr/en/le-chat-mistral) - Mistral's sovereign AI assistant, hosted in Europe. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
+- [Oneflow](https://www.saasradar.fr/en/oneflow) - End-to-end contract management and e-signature. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pipedrive](https://www.saasradar.fr/en/pipedrive) - The sales CRM built around the pipeline. `Paid from 14 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sellsy](https://www.saasradar.fr/en/sellsy) - The CRM and invoicing suite for French SMBs. `Paid from 29 €/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Signeasy](https://www.saasradar.fr/en/signeasy) - Simple electronic signatures, eIDAS compliant. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -439,4 +440,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **360** · Categories: **16** · Last updated: **September 19, 2026**
+Total tools: **361** · Categories: **16** · Last updated: **September 20, 2026**

@@ -77,6 +77,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Slite](https://www.saasradar.fr/en/slite) - The AI-powered team knowledge base, from a French company. `Paid from 10 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Stack AI](https://www.saasradar.fr/en/stack-ai) - No-code enterprise AI agents, secure and governed. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Tidio](https://www.saasradar.fr/en/tidio) - AI live chat and chatbots for e-commerce customer service. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Upfluence](https://www.saasradar.fr/en/upfluence) - The influencer marketing platform for D2C brands. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Wondershare](https://www.saasradar.fr/en/wondershare) - The publisher behind Filmora and PDFelement. `Paid from Dès 49,99 $/an` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Ad Turbo](https://www.saasradar.fr/en/ad-turbo) - The AI agent that runs your Google Ads campaigns around the clock. `Paid from 149 $/mois` `⭐ 6/10` `🆓 Trial`.
 - [AISQ](https://www.saasradar.fr/en/aisq) - Squirrly's AI marketing infrastructure. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -440,4 +441,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **361** · Categories: **16** · Last updated: **September 20, 2026**
+Total tools: **362** · Categories: **16** · Last updated: **September 21, 2026**

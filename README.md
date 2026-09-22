@@ -383,6 +383,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Sage](https://www.saasradar.fr/en/sage) - The accounting and management software range for France. `Paid from 19 €/mois HT` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [SeDomicilier](https://www.saasradar.fr/en/sedomicilier) - Fully online business domiciliation. `Paid from Dès 13 €/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Shine](https://www.saasradar.fr/en/shine) - The French neobank for freelancers and small businesses. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Simplybook.me](https://www.saasradar.fr/en/simplybook-me) - Online booking software for service providers. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Slab](https://www.saasradar.fr/en/slab) - The fast, well-organized team knowledge base. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Softr](https://www.saasradar.fr/en/softr) - Build no-code apps and portals from Airtable. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tana](https://www.saasradar.fr/en/tana) - The AI-native workspace structured by supertags. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -441,4 +442,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **362** · Categories: **16** · Last updated: **September 21, 2026**
+Total tools: **363** · Categories: **16** · Last updated: **September 22, 2026**

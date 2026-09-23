@@ -293,6 +293,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [WarmupInbox](https://www.saasradar.fr/en/warmupinbox) - Email warmup to improve deliverability. `Paid from 19 $/mois par boîte mail` `⭐ 7/10` `🆓 Trial`.
 - [WebinarGeek](https://www.saasradar.fr/en/webinargeek) - The European webinar platform, live or automated. `Paid from 49 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WebinarJam](https://www.saasradar.fr/en/webinarjam) - Live webinars at scale. `Paid from 39 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [WhatConverts](https://www.saasradar.fr/en/whatconverts) - Lead tracking and attribution for agencies and marketers. `Paid from 30 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WhatsApp](https://www.saasradar.fr/en/whatsapp) - Meta's messaging app and its business platform for companies. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Woodpecker.co](https://www.saasradar.fr/en/woodpecker) - Cold email and follow-up sequences, billed by usage. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Algomo](https://www.saasradar.fr/en/algomo) - Visitor identification and B2B outbound prospecting. `Paid from 200 $/mois` `⭐ 6/10` `🇪🇺 GDPR`.
@@ -442,4 +443,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **363** · Categories: **16** · Last updated: **September 22, 2026**
+Total tools: **364** · Categories: **16** · Last updated: **September 23, 2026**

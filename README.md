@@ -184,6 +184,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Chargebee](https://www.saasradar.fr/en/chargebee) - The subscription management and recurring billing platform. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Henrri](https://www.saasradar.fr/en/henrri) - 100% free invoicing and quotes for freelancers. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Obat](https://www.saasradar.fr/en/obat) - Quotes, invoices, and job site tracking for the building trade. `Paid from 25 € HT / mois` `⭐ 7/10` `🆓 Trial`.
+- [Payoneer](https://www.saasradar.fr/en/payoneer) - Cross-border payments for freelancers and businesses. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [PayPal](https://www.saasradar.fr/en/paypal) - The online payment service and long-standing digital wallet. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [QuickBooks](https://www.saasradar.fr/en/quickbooks) - Intuit's leading accounting software. `Paid from 20 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tolteck](https://www.saasradar.fr/en/tolteck) - Quotes and invoices for building trade professionals, one flat price. `Paid from 19 € HT / mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -443,4 +444,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **364** · Categories: **16** · Last updated: **September 23, 2026**
+Total tools: **365** · Categories: **16** · Last updated: **September 24, 2026**

@@ -308,6 +308,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [TapStitch](https://www.saasradar.fr/en/tapstitch) - Premium print-on-demand custom apparel, with no inventory. `Free` `⭐ 6/10`.
 - [Web CEO](https://www.saasradar.fr/en/web-ceo) - The all-in-one SEO suite for agencies and small businesses. `Paid from 37 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Page Pulse](https://www.saasradar.fr/en/page-pulse) - Simplified web analytics, publisher hard to verify. `Freemium` `⭐ 5/10`.
+- [Premium Inboxes](https://www.saasradar.fr/en/premium-inboxes) - Ready-made mailbox reselling for cold email. `Paid from 3,50 $/boîte` `⭐ 5/10`.
 
 ## Productivity & Organization
 
@@ -445,4 +446,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **366** · Categories: **16** · Last updated: **September 25, 2026**
+Total tools: **367** · Categories: **16** · Last updated: **September 26, 2026**

@@ -21,6 +21,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Project Management](#project-management)
 - [Sales & CRM](#sales--crm)
 - [Security & Compliance](#security--compliance)
+- [Training & Learning](#training--learning)
 - [Website & SEO](#website--seo)
 - [Stats](#stats)
 
@@ -432,6 +433,10 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [DUER-RUN](https://www.saasradar.fr/en/duer-run) - Assess risks, secure your business. `Paid from 180€/an` `⭐ 7/10`.
 - [Okta](https://www.saasradar.fr/en/okta) - The identity and access management platform (SSO, MFA). `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 
+## Training & Learning
+
+- [Wecandoo](https://www.saasradar.fr/en/wecandoo) - The marketplace for craft workshops with real artisans. `Paid from 35 €/atelier` `⭐ 5/10` `🇪🇺 GDPR`.
+
 ## Website & SEO
 
 - [Chat SEO](https://www.saasradar.fr/en/chat-seo) - The all-in-one AI-driven SEO assistant. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -446,4 +451,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **367** · Categories: **16** · Last updated: **September 26, 2026**
+Total tools: **368** · Categories: **17** · Last updated: **September 27, 2026**

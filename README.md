@@ -310,6 +310,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Web CEO](https://www.saasradar.fr/en/web-ceo) - The all-in-one SEO suite for agencies and small businesses. `Paid from 37 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Page Pulse](https://www.saasradar.fr/en/page-pulse) - Simplified web analytics, publisher hard to verify. `Freemium` `⭐ 5/10`.
 - [Premium Inboxes](https://www.saasradar.fr/en/premium-inboxes) - Ready-made mailbox reselling for cold email. `Paid from 3,50 $/boîte` `⭐ 5/10`.
+- [Stampezee](https://www.saasradar.fr/en/stampezee) - The digital loyalty card for local shops. `Custom pricing` `⭐ 5/10`.
 
 ## Productivity & Organization
 
@@ -451,4 +452,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **368** · Categories: **17** · Last updated: **September 27, 2026**
+Total tools: **369** · Categories: **17** · Last updated: **September 28, 2026**

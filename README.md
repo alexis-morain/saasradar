@@ -368,6 +368,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Coda](https://www.saasradar.fr/en/coda) - The all-in-one doc that blends text, spreadsheets, and apps. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Comp AI](https://www.saasradar.fr/en/comp-ai) - SOC 2 and ISO 27001 compliance automated, open source. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Confluence](https://www.saasradar.fr/en/confluence) - Atlassian's team documentation workspace and wiki. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Fax.Plus](https://www.saasradar.fr/en/fax-plus) - Online fax from Switzerland's Alohi. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Freebe](https://www.saasradar.fr/en/freebe) - All-in-one management for French freelancers. `Paid from 12,50 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Glide](https://www.saasradar.fr/en/glide) - The no-code app builder powered by your data. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Hubstaff](https://www.saasradar.fr/en/hubstaff) - Time and productivity tracking for distributed teams. `Paid from 4,99 $/utilisateur/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -452,4 +453,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **369** · Categories: **17** · Last updated: **September 28, 2026**
+Total tools: **370** · Categories: **17** · Last updated: **September 29, 2026**

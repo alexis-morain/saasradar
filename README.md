@@ -167,6 +167,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Pressable](https://www.saasradar.fr/en/pressable) - Automattic's managed WordPress hosting. `Paid from 25 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [React Email](https://www.saasradar.fr/en/react-email) - The open-source library to build emails with React. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [UptimeRobot](https://www.saasradar.fr/en/uptimerobot) - Uptime monitoring for your sites and APIs. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Volza](https://www.saasradar.fr/en/volza) - Global trade import-export data. `Paid from 1 500 $/an` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Bluehost](https://www.saasradar.fr/en/bluehost) - The WordPress hosting recommended for getting started. `Paid from 3,99 $/mois` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Domain.com](https://www.saasradar.fr/en/domain-com) - US registrar and shared hosting provider, low introductory pricing and pricier renewals. `Paid from 2,99 $/mois` `⭐ 6/10`.
 
@@ -453,4 +454,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **370** · Categories: **17** · Last updated: **September 29, 2026**
+Total tools: **371** · Categories: **17** · Last updated: **September 30, 2026**

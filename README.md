@@ -402,6 +402,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [ChatGPT Agent (ex-Operator)](https://www.saasradar.fr/en/openai-operator) - OpenAI's browser agent, now folded into ChatGPT Agent. `Paid from 20 $/mois (via ChatGPT Plus)` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Ma Formaliste](https://www.saasradar.fr/en/ma-formaliste) - Business legal formalities online, in France. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [PDWare](https://www.saasradar.fr/en/pdware) - Enterprise resource and project portfolio management. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
+- [QuickSigner](https://www.saasradar.fr/en/quicksigner) - Certified electronic signatures at an affordable price. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Selki](https://www.saasradar.fr/en/selki) - Simple invoicing and quotes for French freelancers. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Travel Code](https://www.saasradar.fr/en/travel-code) - Business travel management with post-booking rate tracking. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Wave](https://www.saasradar.fr/en/wave) - Free accounting and invoicing, focused on the US and Canada. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
@@ -454,4 +455,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **371** · Categories: **17** · Last updated: **September 30, 2026**
+Total tools: **372** · Categories: **17** · Last updated: **October 1, 2026**

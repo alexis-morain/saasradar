@@ -83,6 +83,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Ad Turbo](https://www.saasradar.fr/en/ad-turbo) - The AI agent that runs your Google Ads campaigns around the clock. `Paid from 149 $/mois` `⭐ 6/10` `🆓 Trial`.
 - [AISQ](https://www.saasradar.fr/en/aisq) - Squirrly's AI marketing infrastructure. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [DALL-E](https://www.saasradar.fr/en/dall-e) - OpenAI's image generator, now at end of life. `Paid from 20 $/mois (via ChatGPT Plus)` `⭐ 6/10` `🇪🇺 GDPR`.
+- [Eurekaa.io](https://www.saasradar.fr/en/eurekaa) - AI-powered validation and creation for online courses. `Paid from 14 $/mois` `⭐ 6/10` `🆓 Trial`.
 - [ImmoAI](https://www.saasradar.fr/en/immoai) - AI-powered rental investment analysis. `Freemium` `⭐ 6/10` `🆓 Trial`.
 - [Leader Leads](https://www.saasradar.fr/en/leader-leads) - The mobile CRM that captures calls, notes, and follow-ups from your phone. `Freemium` `⭐ 6/10` `🆓 Trial`.
 - [Sora](https://www.saasradar.fr/en/sora) - OpenAI's AI video generator, now built into ChatGPT. `Freemium` `⭐ 5/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -455,4 +456,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **372** · Categories: **17** · Last updated: **October 1, 2026**
+Total tools: **373** · Categories: **17** · Last updated: **October 2, 2026**

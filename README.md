@@ -401,6 +401,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Wispr Flow](https://www.saasradar.fr/en/wispr-flow) - The AI voice dictation that writes into any app. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WP Job Manager](https://www.saasradar.fr/en/wp-job-manager) - The WordPress plugin for building a job listings site. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [ChatGPT Agent (ex-Operator)](https://www.saasradar.fr/en/openai-operator) - OpenAI's browser agent, now folded into ChatGPT Agent. `Paid from 20 $/mois (via ChatGPT Plus)` `⭐ 6/10` `🇪🇺 GDPR`.
+- [Leavo](https://www.saasradar.fr/en/leavo) - Leave and time management for teams. `Paid from 448 $/an` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Ma Formaliste](https://www.saasradar.fr/en/ma-formaliste) - Business legal formalities online, in France. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [PDWare](https://www.saasradar.fr/en/pdware) - Enterprise resource and project portfolio management. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [QuickSigner](https://www.saasradar.fr/en/quicksigner) - Certified electronic signatures at an affordable price. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -456,4 +457,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **373** · Categories: **17** · Last updated: **October 2, 2026**
+Total tools: **374** · Categories: **17** · Last updated: **October 3, 2026**

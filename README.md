@@ -306,6 +306,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Grape Leads](https://www.saasradar.fr/en/grape-leads) - Local lead generation straight from Google Maps. `Paid from 28 $ / 50 crédits` `⭐ 6/10` `🆓 Trial`.
 - [Hootsuite](https://www.saasradar.fr/en/hootsuite) - The social media suite for large organisations, priced accordingly. `Paid from 99 €/utilisateur/mois (annuel)` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Logic-Immo](https://www.saasradar.fr/en/logic-immo) - The French real estate portal oriented toward agencies and buyers. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
+- [Mktg.ai](https://www.saasradar.fr/en/mktg-ai) - Creative intelligence to drive marketing performance. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [PAP](https://www.saasradar.fr/en/pap) - The peer-to-peer real estate site, without agencies. `Paid from Packs annonce payants` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Salesflow](https://www.saasradar.fr/en/salesflow) - LinkedIn and email outreach automation for teams. `Paid from 79 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [TapStitch](https://www.saasradar.fr/en/tapstitch) - Premium print-on-demand custom apparel, with no inventory. `Free` `⭐ 6/10`.
@@ -457,4 +458,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **374** · Categories: **17** · Last updated: **October 3, 2026**
+Total tools: **375** · Categories: **17** · Last updated: **October 4, 2026**

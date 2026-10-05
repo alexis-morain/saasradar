@@ -390,7 +390,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Readwise](https://www.saasradar.fr/en/readwise) - The tool that captures and resurfaces your reading highlights. `Paid from 8 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sabre](https://www.saasradar.fr/en/sabre) - The American travel distribution system and technology. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Sage](https://www.saasradar.fr/en/sage) - The accounting and management software range for France. `Paid from 19 €/mois HT` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
-- [SeDomicilier](https://www.saasradar.fr/en/sedomicilier) - Fully online business domiciliation. `Paid from Dès 13 €/mois` `⭐ 7/10` `🇪🇺 GDPR`.
+- [SeDomicilier](https://www.saasradar.fr/en/sedomicilier) - Fully online business domiciliation. `Paid from Dès 11 € HT/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Shine](https://www.saasradar.fr/en/shine) - The French neobank for freelancers and small businesses. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Simplybook.me](https://www.saasradar.fr/en/simplybook-me) - Online booking software for service providers. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Slab](https://www.saasradar.fr/en/slab) - The fast, well-organized team knowledge base. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -458,4 +458,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **375** · Categories: **17** · Last updated: **October 4, 2026**
+Total tools: **375** · Categories: **17** · Last updated: **October 5, 2026**

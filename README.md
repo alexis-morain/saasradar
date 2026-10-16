@@ -240,6 +240,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Segment](https://www.saasradar.fr/en/segment) - The customer data platform (CDP) that centralizes and routes data. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Semrush](https://www.saasradar.fr/en/semrush) - The benchmark SEO and marketing suite. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Shopify](https://www.saasradar.fr/en/shopify) - The all-in-one e-commerce platform of reference. `Paid from 39 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Sparkup](https://www.saasradar.fr/en/sparkup) - The French webinar and corporate live streaming platform where the audience takes part on screen. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Veo](https://www.saasradar.fr/en/veo) - Google DeepMind's AI video generation model. `Paid from 19,99 $/mois (Google AI Pro)` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Welcome to the Jungle](https://www.saasradar.fr/en/welcome-to-the-jungle) - The HR and employer branding suite backed by France's leading jobs media outlet. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [WooCommerce](https://www.saasradar.fr/en/woocommerce) - The open source e-commerce plugin for WordPress. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -458,4 +459,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **375** · Categories: **17** · Last updated: **October 15, 2026**
+Total tools: **376** · Categories: **17** · Last updated: **October 16, 2026**

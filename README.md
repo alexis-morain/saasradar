@@ -186,6 +186,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [PayFit](https://www.saasradar.fr/en/payfit) - Payroll and HR software built for French SMEs. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Chargebee](https://www.saasradar.fr/en/chargebee) - The subscription management and recurring billing platform. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Henrri](https://www.saasradar.fr/en/henrri) - 100% free invoicing and quotes for freelancers. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Newbi](https://www.saasradar.fr/en/newbi) - The French quote, invoice and freelancer management software for small businesses, e-invoicing included. `Paid from 16,19 € / mois TTC, en annuel` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Obat](https://www.saasradar.fr/en/obat) - Quotes, invoices, and job site tracking for the building trade. `Paid from 25 € HT / mois` `⭐ 7/10` `🆓 Trial`.
 - [Payoneer](https://www.saasradar.fr/en/payoneer) - Cross-border payments for freelancers and businesses. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [PayPal](https://www.saasradar.fr/en/paypal) - The online payment service and long-standing digital wallet. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -211,6 +212,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [ActiveCampaign](https://www.saasradar.fr/en/activecampaign) - Email marketing, advanced automation, and CRM. `Paid from 15 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Agorapulse](https://www.saasradar.fr/en/agorapulse) - The unified inbox that changes how a social team works. `Paid from 79 €/utilisateur/mois (annuel)` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Amplitude](https://www.saasradar.fr/en/amplitude) - Product analytics to understand user behavior. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
+- [Apify](https://www.saasradar.fr/en/apify) - The Czech web scraping platform, with thousands of ready-to-run extractors and an API. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Beehiiv](https://www.saasradar.fr/en/beehiv) - The newsletter platform built for growth. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Brevo](https://www.saasradar.fr/en/brevo) - The all-in-one marketing platform, French publisher. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Buffer](https://www.saasradar.fr/en/buffer) - The simplest publishing queue on the market. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -459,4 +461,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **376** · Categories: **17** · Last updated: **October 21, 2026**
+Total tools: **378** · Categories: **17** · Last updated: **October 22, 2026**

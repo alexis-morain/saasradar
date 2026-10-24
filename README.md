@@ -308,6 +308,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Diginius](https://www.saasradar.fr/en/diginius) - Multichannel marketing analytics for agencies and businesses. `Paid from 75 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Grape Leads](https://www.saasradar.fr/en/grape-leads) - Local lead generation straight from Google Maps. `Paid from 28 $ / 50 crédits` `⭐ 6/10` `🆓 Trial`.
 - [Hootsuite](https://www.saasradar.fr/en/hootsuite) - The social media suite for large organisations, priced accordingly. `Paid from 99 €/utilisateur/mois (annuel)` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Listar](https://www.saasradar.fr/en/listar) - French B2B contact enrichment, paid only when the email or phone number is found. `Paid from 0,10 € HT par email trouvé` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Logic-Immo](https://www.saasradar.fr/en/logic-immo) - The French real estate portal oriented toward agencies and buyers. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Mktg.ai](https://www.saasradar.fr/en/mktg-ai) - Creative intelligence to drive marketing performance. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [PAP](https://www.saasradar.fr/en/pap) - The peer-to-peer real estate site, without agencies. `Paid from Packs annonce payants` `⭐ 6/10` `🇪🇺 GDPR`.
@@ -461,4 +462,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **378** · Categories: **17** · Last updated: **October 23, 2026**
+Total tools: **379** · Categories: **17** · Last updated: **October 24, 2026**

@@ -310,6 +310,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Hootsuite](https://www.saasradar.fr/en/hootsuite) - The social media suite for large organisations, priced accordingly. `Paid from 99 €/utilisateur/mois (annuel)` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Listar](https://www.saasradar.fr/en/listar) - French B2B contact enrichment, paid only when the email or phone number is found. `Paid from 0,10 € HT par email trouvé` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Logic-Immo](https://www.saasradar.fr/en/logic-immo) - The French real estate portal oriented toward agencies and buyers. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
+- [Makelead](https://www.saasradar.fr/en/makelead) - LinkedIn and X prospecting with AI-written posts, for independents and small teams. `Paid from 39 € HT / mois` `⭐ 6/10`.
 - [Mktg.ai](https://www.saasradar.fr/en/mktg-ai) - Creative intelligence to drive marketing performance. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [PAP](https://www.saasradar.fr/en/pap) - The peer-to-peer real estate site, without agencies. `Paid from Packs annonce payants` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Salesflow](https://www.saasradar.fr/en/salesflow) - LinkedIn and email outreach automation for teams. `Paid from 79 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -462,4 +463,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **379** · Categories: **17** · Last updated: **October 25, 2026**
+Total tools: **380** · Categories: **17** · Last updated: **October 26, 2026**

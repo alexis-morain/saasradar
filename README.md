@@ -303,7 +303,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Survicate](https://www.saasradar.fr/en/survicate) - The multichannel survey and customer feedback platform. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Swello](https://www.saasradar.fr/en/swello) - The French social media tool, hosted on Outscale in Paris. `Paid from 19 € HT/mois (annuel)` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [TikTok](https://www.saasradar.fr/en/tiktok) - The short-video social network and its advertising platform. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
-- [Walaaxy](https://www.saasradar.fr/en/walaaxy) - LinkedIn prospecting automation, French publisher. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Waalaxy](https://www.saasradar.fr/en/waalaxy) - LinkedIn prospecting automation, French publisher. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WarmupInbox](https://www.saasradar.fr/en/warmupinbox) - Email warmup to improve deliverability. `Paid from 19 $/mois par boîte mail` `⭐ 7/10` `🆓 Trial`.
 - [WebinarGeek](https://www.saasradar.fr/en/webinargeek) - The European webinar platform, live or automated. `Paid from 49 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WebinarJam](https://www.saasradar.fr/en/webinarjam) - Live webinars at scale. `Paid from 39 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -447,7 +447,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [CloudTalk](https://www.saasradar.fr/en/cloudtalk) - The cloud call center rich in CRM integrations. `Paid from 21 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Copper](https://www.saasradar.fr/en/copper) - The CRM that lives inside Google Workspace. `Paid from 23 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [EBP](https://www.saasradar.fr/en/ebp) - French management software for small businesses, SMEs, and tradespeople. `Paid from 12,50 €/mois HT` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
-- [Folk](https://www.saasradar.fr/en/folk) - The light, collaborative CRM, from a French company. `Paid from 22 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Folk](https://www.saasradar.fr/en/folk) - The light, collaborative CRM, from a French company. `Paid from 22 €/membre/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Foxit](https://www.saasradar.fr/en/foxit) - The full-featured PDF editor, an affordable Acrobat alternative. `Paid from 10,99 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [OnePageCRM](https://www.saasradar.fr/en/onepagecrm) - The action-oriented sales CRM, simple and fast. `Paid from 13,50 $/utilisateur/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Inklura](https://www.saasradar.fr/en/inklura) - The French modular management suite, from CRM to point of sale, sold by product and by tier. `Paid from Dès 4 € HT / mois par salarié (RH), 9 € pour projets et documents` `⭐ 6/10` `🇪🇺 GDPR`.
@@ -476,4 +476,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **393** · Categories: **17** · Last updated: **October 30, 2026**
+Total tools: **393** · Categories: **17** · Last updated: **October 31, 2026**

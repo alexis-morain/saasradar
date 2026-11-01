@@ -61,10 +61,12 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Amplemarket](https://www.saasradar.fr/en/amplemarket) - The all-in-one B2B sales prospecting platform. `Paid from 600 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Anara](https://www.saasradar.fr/en/anara) - The AI research assistant that reads your PDFs and cites its sources. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [AppFlowy](https://www.saasradar.fr/en/appflowy) - The open source alternative to Notion, with local AI. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Atria](https://www.saasradar.fr/en/atria) - The Meta and TikTok ad library, read by AI. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Attio](https://www.saasradar.fr/en/attio) - The next-generation CRM, flexible and AI-driven. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Bold Desk](https://www.saasradar.fr/en/bold-desk) - Syncfusion's customer support software. `Paid from 99 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Buzz.ai](https://www.saasradar.fr/en/buzz-ai) - AI powered multichannel sales engagement. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Chatbase](https://www.saasradar.fr/en/chatbase) - The platform for building AI agents and chatbots on your own data. `Paid from 32 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [cloro](https://www.saasradar.fr/en/cloro) - One API for Google and the AI answer engines. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Emergent](https://www.saasradar.fr/en/emergent) - The AI agent that builds your apps from an idea. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Frase](https://www.saasradar.fr/en/frase) - The AI-assisted SEO writing tool. `Paid from 39 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Freshsales](https://www.saasradar.fr/en/freshsales) - Freshworks's sales CRM with Freddy AI. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -143,6 +145,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Azure](https://www.saasradar.fr/en/azure) - Microsoft's cloud for infrastructure and services. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Bubble](https://www.saasradar.fr/en/bubble) - The no-code platform for building complete web applications. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Cargo](https://www.saasradar.fr/en/cargo) - The official package manager and build tool of the Rust language. `Free` `⭐ 8/10` `🇪🇺 GDPR`.
+- [DigitalOcean](https://www.saasradar.fr/en/digitalocean) - The cloud whose bill you understand before it arrives. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Firebase](https://www.saasradar.fr/en/firebase) - Google's app development platform. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [GitLab](https://www.saasradar.fr/en/gitlab) - The all-in-one DevOps platform built around the Git repository. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Google Cloud](https://www.saasradar.fr/en/google-cloud) - Google's cloud platform, from compute to AI and data. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -322,6 +325,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [PAP](https://www.saasradar.fr/en/pap) - The peer-to-peer real estate site, without agencies. `Paid from Packs annonce payants` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Salesflow](https://www.saasradar.fr/en/salesflow) - LinkedIn and email outreach automation for teams. `Paid from 79 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sendora](https://www.saasradar.fr/en/sendora) - A simple, affordable French emailing software for small businesses, associations, and independents. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
+- [Shor](https://www.saasradar.fr/en/shorby) - The link-in-bio page that updates itself. `Paid from 12 $ / mois (Rocket, engagement annuel)` `⭐ 6/10`.
 - [TapStitch](https://www.saasradar.fr/en/tapstitch) - Premium print-on-demand custom apparel, with no inventory. `Free` `⭐ 6/10`.
 - [Web CEO](https://www.saasradar.fr/en/web-ceo) - The all-in-one SEO suite for agencies and small businesses. `Paid from 37 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Page Pulse](https://www.saasradar.fr/en/page-pulse) - Simplified web analytics, publisher hard to verify. `Freemium` `⭐ 5/10`.
@@ -400,6 +404,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [MRPeasy](https://www.saasradar.fr/en/mrpeasy) - The MRP and ERP software for small manufacturers. `Paid from 49 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [NameCheap](https://www.saasradar.fr/en/namecheap) - Domain registration and web hosting at low prices. `Paid from 1,98 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [NocoDB](https://www.saasradar.fr/en/nocodb) - The open-source Airtable alternative, self-hostable. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Otilus](https://www.saasradar.fr/en/otilus) - The French project management software, hosted in France, with Kanban, Gantt, and scenarios. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Outline](https://www.saasradar.fr/en/outline) - The fast, open source team wiki. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pipedream](https://www.saasradar.fr/en/pipedream) - Developer-focused automation, between code and no-code. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Postman](https://www.saasradar.fr/en/postman) - The go-to platform for testing APIs. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -411,6 +416,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Simplybook.me](https://www.saasradar.fr/en/simplybook-me) - Online booking software for service providers. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Slab](https://www.saasradar.fr/en/slab) - The fast, well-organized team knowledge base. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Softr](https://www.saasradar.fr/en/softr) - Build no-code apps and portals from Airtable. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Success.co](https://www.saasradar.fr/en/success-co) - The Irish EOS software, with a real lifetime free plan. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tana](https://www.saasradar.fr/en/tana) - The AI-native workspace structured by supertags. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Twist](https://www.saasradar.fr/en/twist) - Asynchronous, thread-based team messaging. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [WebCatalog](https://www.saasradar.fr/en/webcatalog) - Turn websites into organized desktop apps. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -421,6 +427,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [ChatGPT Agent (ex-Operator)](https://www.saasradar.fr/en/openai-operator) - OpenAI's browser agent, now folded into ChatGPT Agent. `Paid from 20 $/mois (via ChatGPT Plus)` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Leavo](https://www.saasradar.fr/en/leavo) - Leave and time management for teams. `Paid from 448 $/an` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Ma Formaliste](https://www.saasradar.fr/en/ma-formaliste) - Business legal formalities online, in France. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
+- [Modge](https://www.saasradar.fr/en/modge) - Time tracking and workstation monitoring, at $4 per seat. `Paid from 4 $ / utilisateur / mois (engagement annuel)` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [PDWare](https://www.saasradar.fr/en/pdware) - Enterprise resource and project portfolio management. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [QuickSigner](https://www.saasradar.fr/en/quicksigner) - Certified electronic signatures at an affordable price. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Selki](https://www.saasradar.fr/en/selki) - Simple invoicing and quotes for French freelancers. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
@@ -476,4 +483,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **393** · Categories: **17** · Last updated: **October 31, 2026**
+Total tools: **400** · Categories: **17** · Last updated: **November 1, 2026**

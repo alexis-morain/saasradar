@@ -99,6 +99,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Looker Studio](https://www.saasradar.fr/en/looker-studio) - Google's free dashboard and reporting tool. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Power BI](https://www.saasradar.fr/en/power-bi) - Microsoft's business intelligence and dashboard tool. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Qlik](https://www.saasradar.fr/en/qlik) - The business intelligence and data integration platform. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [UptimeObserver](https://www.saasradar.fr/en/uptimeobserver) - Monitoring for websites, APIs, SSL certificates, and domains with alerts, free plan included. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Automation & No-code
 
@@ -483,4 +484,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **400** · Categories: **17** · Last updated: **November 2, 2026**
+Total tools: **401** · Categories: **17** · Last updated: **November 3, 2026**

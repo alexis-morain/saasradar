@@ -272,6 +272,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Dropcontact](https://www.saasradar.fr/en/dropcontact) - GDPR-compliant B2B contact enrichment. `Paid from 79 €/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Elfsight](https://www.saasradar.fr/en/elfsight) - Ready-made widgets for any website. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [EmailListVerify](https://www.saasradar.fr/en/emaillistverify) - Email list verification to cut bounce rates. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Eventozor](https://www.saasradar.fr/en/eventozor) - French platform for registrations, ticketing, and QR badges for professional events. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [EverWebinar](https://www.saasradar.fr/en/everwebinar) - The automated (evergreen) webinar, by Genesis Digital. `Paid from 99 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Flippa](https://www.saasradar.fr/en/flippa) - The marketplace for buying and selling online businesses. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Full Enrich](https://www.saasradar.fr/en/full-enrich) - Waterfall B2B contact enrichment. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -288,6 +289,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [LinkedIn Ads](https://www.saasradar.fr/en/linkedin-ads) - LinkedIn's B2B advertising network, targeted by role and company. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [LinkMiner](https://www.saasradar.fr/en/linkminer) - Simple backlink analysis, by Mangools. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Loops](https://www.saasradar.fr/en/loops) - Marketing and transactional email for SaaS companies. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Mailkube](https://www.saasradar.fr/en/mailkube) - The transactional email API hosted in Europe, over REST or SMTP, with 4,000 free emails per month. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Marketo Engage](https://www.saasradar.fr/en/marketo) - Adobe's B2B marketing automation platform. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Messenger](https://www.saasradar.fr/en/messenger) - Meta's messaging app, a customer service channel via Pages. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Microsoft Ads](https://www.saasradar.fr/en/microsoft-ads) - Microsoft's advertising network, on Bing and the search network. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -484,4 +486,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **401** · Categories: **17** · Last updated: **November 4, 2026**
+Total tools: **403** · Categories: **17** · Last updated: **November 5, 2026**

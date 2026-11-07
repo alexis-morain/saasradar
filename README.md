@@ -75,6 +75,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [KrispCall](https://www.saasradar.fr/en/krispcall) - Cloud phone system for sales and support teams. `Paid from 12 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Littlebird](https://www.saasradar.fr/en/littlebird) - The personal AI assistant that follows your work in context. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Meet by IAxion](https://www.saasradar.fr/en/meet-by-iaxion) - AI-transcribed and corrected meetings. `Paid` `⭐ 7/10`.
+- [MimikFlow](https://www.saasradar.fr/en/mimikflow) - An AI LinkedIn prospecting agent that follows up with prospects and books meetings. `Paid from 49 € TTC / mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Omybox](https://www.saasradar.fr/en/omybox) - Turn your website into an AI assistant in minutes. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pika](https://www.saasradar.fr/en/pika) - Simple, accessible AI generation of short videos. `Freemium` `⭐ 7/10`.
 - [Read AI](https://www.saasradar.fr/en/read-ai) - AI-powered meeting transcription and summaries. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -486,4 +487,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **403** · Categories: **17** · Last updated: **November 6, 2026**
+Total tools: **404** · Categories: **17** · Last updated: **November 7, 2026**

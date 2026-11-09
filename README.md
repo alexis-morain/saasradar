@@ -169,6 +169,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [AWS](https://www.saasradar.fr/en/aws) - The most complete cloud on the market, by Amazon. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Babel](https://www.saasradar.fr/en/babel) - The JavaScript compiler that translates modern code for all browsers. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Bitbucket](https://www.saasradar.fr/en/bitbucket) - Atlassian's Git repository hosting, integrated with Jira. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Easypanel](https://www.saasradar.fr/en/easypanel) - A self-hosted web panel to deploy applications and databases on your own servers. `Freemium` `⭐ 7/10`.
 - [Helm](https://www.saasradar.fr/en/helm) - The package manager for Kubernetes. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [InMotion Hosting](https://www.saasradar.fr/en/inmotion-hosting) - Managed web and VPS hosting for professionals. `Paid from 2,75 $/mois` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Jenkins](https://www.saasradar.fr/en/jenkins) - The long-standing open-source automation and CI/CD server. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -487,4 +488,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **404** · Categories: **17** · Last updated: **November 8, 2026**
+Total tools: **405** · Categories: **17** · Last updated: **November 9, 2026**

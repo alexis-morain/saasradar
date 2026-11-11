@@ -90,6 +90,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [AISQ](https://www.saasradar.fr/en/aisq) - Squirrly's AI marketing infrastructure. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [DALL-E](https://www.saasradar.fr/en/dall-e) - OpenAI's image generator, now at end of life. `Paid from 20 $/mois (via ChatGPT Plus)` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Eurekaa.io](https://www.saasradar.fr/en/eurekaa) - AI-powered validation and creation for online courses. `Paid from 14 $/mois` `⭐ 6/10` `🆓 Trial`.
+- [Happia](https://www.saasradar.fr/en/happia) - The French GEO tool to measure and improve a business's visibility in AI answers. `Paid from 79 € HT / mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [ImmoAI](https://www.saasradar.fr/en/immoai) - AI-powered rental investment analysis. `Freemium` `⭐ 6/10` `🆓 Trial`.
 - [Leader Leads](https://www.saasradar.fr/en/leader-leads) - The mobile CRM that captures calls, notes, and follow-ups from your phone. `Freemium` `⭐ 6/10` `🆓 Trial`.
 - [Sora](https://www.saasradar.fr/en/sora) - OpenAI's AI video generator, now built into ChatGPT. `Freemium` `⭐ 5/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -488,4 +489,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **405** · Categories: **17** · Last updated: **November 10, 2026**
+Total tools: **406** · Categories: **17** · Last updated: **November 11, 2026**

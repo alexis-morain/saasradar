@@ -434,6 +434,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Leavo](https://www.saasradar.fr/en/leavo) - Leave and time management for teams. `Paid from 448 $/an` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Ma Formaliste](https://www.saasradar.fr/en/ma-formaliste) - Business legal formalities online, in France. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Modge](https://www.saasradar.fr/en/modge) - Time tracking and workstation monitoring, at $4 per seat. `Paid from 4 $ / utilisateur / mois (engagement annuel)` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [MyUniSpace](https://www.saasradar.fr/en/myunispace) - A French team suite that brings together projects, files, chat, calendar, and AI, hosted in Germany. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
 - [PDWare](https://www.saasradar.fr/en/pdware) - Enterprise resource and project portfolio management. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [QuickSigner](https://www.saasradar.fr/en/quicksigner) - Certified electronic signatures at an affordable price. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Selki](https://www.saasradar.fr/en/selki) - Simple invoicing and quotes for French freelancers. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
@@ -489,4 +490,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **406** · Categories: **17** · Last updated: **November 12, 2026**
+Total tools: **407** · Categories: **17** · Last updated: **November 13, 2026**

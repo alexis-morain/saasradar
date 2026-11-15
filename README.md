@@ -188,6 +188,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Magento](https://www.saasradar.fr/en/magento) - Adobe's e-commerce platform, from open source to Adobe Commerce. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [PrestaShop](https://www.saasradar.fr/en/prestashop) - The French open-source e-commerce solution. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Sensei](https://www.saasradar.fr/en/sensei) - The WordPress LMS for building and selling courses. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Shopimize](https://www.saasradar.fr/en/shopimize) - The profit analytics tool that calculates the real net margin of Shopify, WooCommerce, and PrestaShop stores. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Squarespace](https://www.saasradar.fr/en/squarespace) - The all-in-one design-focused website builder. `Paid from 16 $/mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Finance & Accounting
@@ -490,4 +491,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **407** · Categories: **17** · Last updated: **November 14, 2026**
+Total tools: **408** · Categories: **17** · Last updated: **November 15, 2026**

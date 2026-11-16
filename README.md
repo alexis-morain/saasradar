@@ -212,7 +212,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 ## HR & Recruitment
 
-- [Combo](https://www.saasradar.fr/en/combo) - Scheduling and payroll prep for frontline teams, restaurants and retail. `Paid from 60 € / mois / établissement` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Combo](https://www.saasradar.fr/en/combo) - Scheduling and payroll prep for frontline teams, restaurants and retail. `Paid from Dès 68 € / mois / établissement` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Eurécia](https://www.saasradar.fr/en/eurecia) - Modular French HRIS for SMBs, no payroll engine. `Paid from 4,20 € HT / collaborateur / mois` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [ADP](https://www.saasradar.fr/en/adp) - The long-standing giant of payroll and outsourced HR management. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Gusto](https://www.saasradar.fr/en/gusto) - The payroll and HR software for small US businesses. `Paid from Sur abonnement` `⭐ 6/10`.
@@ -327,7 +327,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Hootsuite](https://www.saasradar.fr/en/hootsuite) - The social media suite for large organisations, priced accordingly. `Paid from 99 €/utilisateur/mois (annuel)` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Listar](https://www.saasradar.fr/en/listar) - French B2B contact enrichment, paid only when the email or phone number is found. `Paid from 0,10 € HT par email trouvé` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Logic-Immo](https://www.saasradar.fr/en/logic-immo) - The French real estate portal oriented toward agencies and buyers. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
-- [Makelead](https://www.saasradar.fr/en/makelead) - LinkedIn and X prospecting with AI-written posts, for independents and small teams. `Paid from 39 € HT / mois` `⭐ 6/10`.
+- [Makelead](https://www.saasradar.fr/en/makelead) - LinkedIn and X prospecting with AI-written posts, for independents and small teams. `Paid from À partir de 34,33 € HT par mois en annuel (49 € en mensuel)` `⭐ 6/10`.
 - [Mktg.ai](https://www.saasradar.fr/en/mktg-ai) - Creative intelligence to drive marketing performance. `Custom pricing` `⭐ 6/10` `🇪🇺 GDPR`.
 - [PAP](https://www.saasradar.fr/en/pap) - The peer-to-peer real estate site, without agencies. `Paid from Packs annonce payants` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Salesflow](https://www.saasradar.fr/en/salesflow) - LinkedIn and email outreach automation for teams. `Paid from 79 $/mois` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -369,7 +369,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Otter.ai](https://www.saasradar.fr/en/otter) - AI transcription and meeting notes. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Pennylane](https://www.saasradar.fr/en/pennylane) - The accounting and financial management platform for SMBs. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Perplexity](https://www.saasradar.fr/en/perplexity) - The AI answer engine that cites its sources. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
-- [Qonto](https://www.saasradar.fr/en/qonto) - The business account that also handles pre-accounting. `Paid from 49 €/mois HT` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Qonto](https://www.saasradar.fr/en/qonto) - The business account that also handles pre-accounting. `Paid from Dès 9 €/mois HT (indépendants), 49 € pour les entreprises` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Rocket.Chat](https://www.saasradar.fr/en/rocket-chat) - Open-source, self-hostable messaging built for sovereignty. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Talkspirit](https://www.saasradar.fr/en/talkspirit) - The all-in-one French collaboration platform. `Paid from 5 €/utilisateur/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Things](https://www.saasradar.fr/en/things) - The elegant, award-winning task manager, exclusively for Apple. `Paid from 9,99 $ (iPhone)` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -448,7 +448,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 
 ## Sales & CRM
 
-- [Axonaut](https://www.saasradar.fr/en/axonaut) - The all-in-one management software for French small businesses. `Paid from 97 €/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Axonaut](https://www.saasradar.fr/en/axonaut) - The all-in-one management software for French small businesses. `Paid from Dès 58,20 €/utilisateur/mois (3 ans payés), 97 € en mensuel` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Le Chat (Mistral)](https://www.saasradar.fr/en/le-chat-mistral) - Mistral's sovereign AI assistant, hosted in Europe. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Oneflow](https://www.saasradar.fr/en/oneflow) - End-to-end contract management and e-signature. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pipedrive](https://www.saasradar.fr/en/pipedrive) - The sales CRM built around the pipeline. `Paid from 14 $/mois` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -491,4 +491,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **408** · Categories: **17** · Last updated: **November 15, 2026**
+Total tools: **408** · Categories: **17** · Last updated: **November 16, 2026**

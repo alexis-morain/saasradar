@@ -317,7 +317,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [TikTok](https://www.saasradar.fr/en/tiktok) - The short-video social network and its advertising platform. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Waalaxy](https://www.saasradar.fr/en/waalaxy) - LinkedIn prospecting automation, French publisher. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WarmupInbox](https://www.saasradar.fr/en/warmupinbox) - Email warmup to improve deliverability. `Paid from $19/month per mailbox` `⭐ 7/10` `🆓 Trial`.
-- [WebinarGeek](https://www.saasradar.fr/en/webinargeek) - The European webinar platform, live or automated. `Paid from €49/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [WebinarGeek](https://www.saasradar.fr/en/webinargeek) - The European webinar platform, live or automated. `Paid from €59/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WebinarJam](https://www.saasradar.fr/en/webinarjam) - Live webinars at scale. `Paid from $39/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WhatConverts](https://www.saasradar.fr/en/whatconverts) - Lead tracking and attribution for agencies and marketers. `Paid from $30/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WhatsApp](https://www.saasradar.fr/en/whatsapp) - Meta's messaging app and its business platform for companies. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -427,6 +427,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Softr](https://www.saasradar.fr/en/softr) - Build no-code apps and portals from Airtable. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Success.co](https://www.saasradar.fr/en/success-co) - The Irish EOS software, with a real lifetime free plan. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tana](https://www.saasradar.fr/en/tana) - The AI-native workspace structured by supertags. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Tomatoes.run](https://www.saasradar.fr/en/tomatoes) - One email address per service, hosted in France, with no aliases to create. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Twist](https://www.saasradar.fr/en/twist) - Asynchronous, thread-based team messaging. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [WebCatalog](https://www.saasradar.fr/en/webcatalog) - Turn websites into organized desktop apps. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [WeTransfer](https://www.saasradar.fr/en/wetransfer) - Sending large files with a simple link. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -493,4 +494,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **410** · Categories: **17** · Last updated: **November 20, 2026**
+Total tools: **411** · Categories: **17** · Last updated: **November 21, 2026**

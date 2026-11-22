@@ -40,10 +40,12 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Gemini](https://www.saasradar.fr/en/gemini) - Google's AI assistant, built into Search and Workspace. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [HeyGen](https://www.saasradar.fr/en/heygen) - The AI avatar video generator, with cloning of your face and translation into 175 languages. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [involve.me](https://www.saasradar.fr/en/involve-me) - Interactive forms, quizzes, and funnels for capturing leads. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Le Chat (Mistral)](https://www.saasradar.fr/en/le-chat-mistral) - Mistral's AI assistant, renamed Mistral Vibe in May 2026. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Linear](https://www.saasradar.fr/en/linear) - Fast project management for product and tech teams. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Copilot](https://www.saasradar.fr/en/copilot) - The AI assistant for Windows and Microsoft 365. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Microsoft Dynamics 365 Sales](https://www.saasradar.fr/en/microsoft-dynamics) - The enterprise CRM at the heart of the Microsoft ecosystem. `Paid from $65/month` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Midjourney](https://www.saasradar.fr/en/midjourney) - The reference AI image generator for creatives. `Paid from $10/month` `⭐ 8/10`.
+- [Mistral Vibe](https://www.saasradar.fr/en/mistral-vibe) - Mistral AI's assistant and coding agent, formerly Le Chat. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Monday CRM](https://www.saasradar.fr/en/monday-crm) - monday.com's visual, customizable CRM. `Paid from $12/month` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Monday.com](https://www.saasradar.fr/en/monday) - The visual Work OS for building your own tools. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Murf](https://www.saasradar.fr/en/murf) - AI voiceovers for videos, e-learning, and podcasts. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
@@ -68,6 +70,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Buzz.ai](https://www.saasradar.fr/en/buzz-ai) - AI powered multichannel sales engagement. `Freemium` `⭐ 7/10` `🆓 Trial`.
 - [Chatbase](https://www.saasradar.fr/en/chatbase) - The platform for building AI agents and chatbots on your own data. `Paid from $32/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [cloro](https://www.saasradar.fr/en/cloro) - One API for Google and the AI answer engines. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Duployé](https://www.saasradar.fr/en/duploye) - The French software that writes meeting minutes and formal records straight from the recording. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Emergent](https://www.saasradar.fr/en/emergent) - The AI agent that builds your apps from an idea. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Frase](https://www.saasradar.fr/en/frase) - The AI-assisted SEO writing tool. `Paid from $39/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Freshsales](https://www.saasradar.fr/en/freshsales) - Freshworks's sales CRM with Freddy AI. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -452,7 +455,6 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 ## Sales & CRM
 
 - [Axonaut](https://www.saasradar.fr/en/axonaut) - The all-in-one management software for French small businesses. `Paid from €58.20/user/month (3 years paid), €97 billed monthly` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
-- [Le Chat (Mistral)](https://www.saasradar.fr/en/le-chat-mistral) - Mistral's sovereign AI assistant, hosted in Europe. `Freemium` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Oneflow](https://www.saasradar.fr/en/oneflow) - End-to-end contract management and e-signature. `Freemium` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Pipedrive](https://www.saasradar.fr/en/pipedrive) - The sales CRM built around the pipeline. `Paid from $14/month` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sellsy](https://www.saasradar.fr/en/sellsy) - The CRM and invoicing suite for French SMBs. `Paid from €29/month` `⭐ 8/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -494,4 +496,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **411** · Categories: **17** · Last updated: **November 21, 2026**
+Total tools: **413** · Categories: **17** · Last updated: **November 22, 2026**

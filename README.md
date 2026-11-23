@@ -446,6 +446,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [QuickSigner](https://www.saasradar.fr/en/quicksigner) - Certified electronic signatures at an affordable price. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Selki](https://www.saasradar.fr/en/selki) - Simple invoicing and quotes for French freelancers. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
 - [Travel Code](https://www.saasradar.fr/en/travel-code) - Business travel management with post-booking rate tracking. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
+- [VTC Dispatch](https://www.saasradar.fr/en/vtc-dispatch) - French VTC and taxi dispatch software, with a driver app and invoicing, and no commission on rides. `Freemium` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Wave](https://www.saasradar.fr/en/wave) - Free accounting and invoicing, focused on the US and Canada. `Freemium` `⭐ 6/10` `🇪🇺 GDPR`.
 
 ## Project Management
@@ -496,4 +497,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **413** · Categories: **17** · Last updated: **November 22, 2026**
+Total tools: **414** · Categories: **17** · Last updated: **November 23, 2026**

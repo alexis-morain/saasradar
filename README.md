@@ -77,6 +77,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Granola](https://www.saasradar.fr/en/granola) - The AI notepad that writes your meeting summaries. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Joiin](https://www.saasradar.fr/en/joiin) - Multi-entity financial consolidation, no spreadsheets. `Paid from $28/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [KrispCall](https://www.saasradar.fr/en/krispcall) - Cloud phone system for sales and support teams. `Paid from $12/month` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Le Scribe Audio](https://www.saasradar.fr/en/le-scribe-audio) - AI audio and video transcription, with editable Word export and storage in France. `Paid` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Littlebird](https://www.saasradar.fr/en/littlebird) - The personal AI assistant that follows your work in context. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Meet by IAxion](https://www.saasradar.fr/en/meet-by-iaxion) - AI-transcribed and corrected meetings. `Paid` `⭐ 7/10`.
 - [MimikFlow](https://www.saasradar.fr/en/mimikflow) - An AI LinkedIn prospecting agent that follows up with prospects and books meetings. `Paid from €49/month incl. VAT` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -98,6 +99,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Happia](https://www.saasradar.fr/en/happia) - The French GEO tool to measure and improve a business's visibility in AI answers. `Paid from €79/month excl. VAT` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [ImmoAI](https://www.saasradar.fr/en/immoai) - AI-powered rental investment analysis. `Freemium` `⭐ 6/10` `🆓 Trial`.
 - [Leader Leads](https://www.saasradar.fr/en/leader-leads) - The mobile CRM that captures calls, notes, and follow-ups from your phone. `Freemium` `⭐ 6/10` `🆓 Trial`.
+- [VODOKIA](https://www.saasradar.fr/en/vodokia) - The voice-driven management assistant for tradespeople: quotes, Factur-X invoices and payment reminders. `Paid from €27/month` `⭐ 6/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Sora](https://www.saasradar.fr/en/sora) - OpenAI's AI video generator, now built into ChatGPT. `Freemium` `⭐ 5/10` `🇪🇺 GDPR` `🆓 Trial`.
 
 ## Analytics & Data
@@ -497,4 +499,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **414** · Categories: **17** · Last updated: **November 24, 2026**
+Total tools: **416** · Categories: **17** · Last updated: **November 25, 2026**

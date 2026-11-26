@@ -89,6 +89,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Search Atlas](https://www.saasradar.fr/en/search-atlas) - The all-in-one, AI-driven SEO suite (OTTO SEO). `Paid from $99/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Slite](https://www.saasradar.fr/en/slite) - The AI-powered team knowledge base, from a French company. `Paid from $10/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Stack AI](https://www.saasradar.fr/en/stack-ai) - No-code enterprise AI agents, secure and governed. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Surfer](https://www.saasradar.fr/en/surfer) - The visibility platform for Google and AI answers, published by the Positive group. `Paid` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Tidio](https://www.saasradar.fr/en/tidio) - AI live chat and chatbots for e-commerce customer service. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Upfluence](https://www.saasradar.fr/en/upfluence) - The influencer marketing platform for D2C brands. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Wondershare](https://www.saasradar.fr/en/wondershare) - The publisher behind Filmora and PDFelement. `Paid from $49.99/year` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -289,10 +290,12 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Full Enrich](https://www.saasradar.fr/en/full-enrich) - Waterfall B2B contact enrichment. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Geo Targetly](https://www.saasradar.fr/en/geo-targetly) - Web geo-targeting: content and redirects by country. `Paid from $12/month` `⭐ 7/10` `🆓 Trial`.
 - [Hector](https://www.saasradar.fr/en/hector) - AI-driven optimization for Amazon advertising. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Iconosquare](https://www.saasradar.fr/en/iconosquare) - The social media management platform built around analytics: stats, scheduling, reports and listening. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Instantly](https://www.saasradar.fr/en/instantly) - Cold email at scale. `Paid from $37/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Interact](https://www.saasradar.fr/en/interact) - The interactive quiz builder for capturing leads. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Kartra](https://www.saasradar.fr/en/kartra) - The all-in-one platform for selling online. `Paid from $59/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Kaspr](https://www.saasradar.fr/en/kaspr) - The French LinkedIn extension that finds prospects' emails and phone numbers. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Kitt AI](https://www.saasradar.fr/en/kitt) - The free B2B email finder and verifier for individuals, pay per use beyond that. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Later](https://www.saasradar.fr/en/later) - The visual planner for brands that live on imagery. `Paid from $18.75/month (annual)` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Lead Pages](https://www.saasradar.fr/en/lead-page) - The conversion-focused landing page builder. `Paid from $49/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [leboncoin](https://www.saasradar.fr/en/leboncoin) - France's classified ads platform for individuals and professionals. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
@@ -304,6 +307,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Marketo Engage](https://www.saasradar.fr/en/marketo) - Adobe's B2B marketing automation platform. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Messenger](https://www.saasradar.fr/en/messenger) - Meta's messaging app, a customer service channel via Pages. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Microsoft Ads](https://www.saasradar.fr/en/microsoft-ads) - Microsoft's advertising network, on Bing and the search network. `Custom pricing` `⭐ 7/10` `🇪🇺 GDPR`.
+- [Positive User](https://www.saasradar.fr/en/positive-user) - The Positive group platform that brings CRM, email, SMS, WhatsApp and automation together, successor to Sarbacane and User.com. `Paid from €15/month excl. VAT (Newsletter Suite) ; €69/month billed annually excl. VAT (Marketing Suite)` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Postmark](https://www.saasradar.fr/en/postmark) - Transactional email sending known for its deliverability. `Freemium` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Publer](https://www.saasradar.fr/en/publer) - Schedule across every network at the lowest price on the market. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Reditus](https://www.saasradar.fr/en/reditus) - The affiliate and referral platform for B2B SaaS. `Paid from $99/month` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
@@ -499,4 +503,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **416** · Categories: **17** · Last updated: **November 25, 2026**
+Total tools: **420** · Categories: **17** · Last updated: **November 26, 2026**

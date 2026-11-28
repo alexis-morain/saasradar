@@ -207,6 +207,7 @@ A curated directory of SaaS tools, independently reviewed and scored by [SaaS Ra
 - [Stripe](https://www.saasradar.fr/en/stripe) - Payment infrastructure for the internet. `Custom pricing` `⭐ 9/10` `🇪🇺 GDPR`.
 - [PayFit](https://www.saasradar.fr/en/payfit) - Payroll and HR software built for French SMEs. `Custom pricing` `⭐ 8/10` `🇪🇺 GDPR`.
 - [Chargebee](https://www.saasradar.fr/en/chargebee) - The subscription management and recurring billing platform. `Freemium` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
+- [Fygr](https://www.saasradar.fr/en/fygr) - Fygr is now Okimia: name change dates, checked pricing and what stays the same. `Paid from €69/month excl. VAT` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Henrri](https://www.saasradar.fr/en/henrri) - 100% free invoicing and quotes for freelancers. `Free` `⭐ 7/10` `🇪🇺 GDPR`.
 - [Newbi](https://www.saasradar.fr/en/newbi) - The French quote, invoice and freelancer management software for small businesses, e-invoicing included. `Paid from €16.19/month incl. VAT, billed annually` `⭐ 7/10` `🇪🇺 GDPR` `🆓 Trial`.
 - [Obat](https://www.saasradar.fr/en/obat) - Quotes, invoices, and job site tracking for the building trade. `Paid from €25/month excl. VAT` `⭐ 7/10` `🆓 Trial`.
@@ -523,4 +524,4 @@ Want to add a tool? Submit it on [SaaS Radar](https://www.saasradar.fr/en/submit
 
 ## Stats
 
-Total tools: **440** · Categories: **17** · Last updated: **November 27, 2026**
+Total tools: **441** · Categories: **17** · Last updated: **November 28, 2026**
